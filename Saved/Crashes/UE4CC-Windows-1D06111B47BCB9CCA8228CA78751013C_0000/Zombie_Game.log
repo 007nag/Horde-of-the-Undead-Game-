@@ -1,0 +1,1140 @@
+﻿Log file open, 02/23/20 11:18:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Zombie_Game
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.734290
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: E:/SOFTWARES/Unreal/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Engine.ini]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Engine.ini]
+[2020.02.23-05.48.15:224][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Engine.ini]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Engine.ini]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Engine.ini]
+[2020.02.23-05.48.15:224][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Engine.ini]
+[2020.02.23-05.48.15:224][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.23-05.48.15:224][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.23-05.48.15:239][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.23-05.48.15:239][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.23-05.48.15:239][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.23-05.48.15:271][  0]LogHAL: Display: Platform has ~ 8 GB [8459489280 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.23-05.48.15:271][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.23-05.48.15:271][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.02.23-05.48.15:271][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Engine.ini]
+[2020.02.23-05.48.15:284][  0]LogInit: Computer: DESKTOP-FA3HG1E
+[2020.02.23-05.48.15:284][  0]LogInit: User: Nag
+[2020.02.23-05.48.15:284][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.23-05.48.15:284][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.23-05.48.15:284][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.02.23-05.48.15:284][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.23-05.48.15:284][  0]LogMemory: Process Physical Memory: 101.55 MB used, 101.56 MB peak
+[2020.02.23-05.48.15:284][  0]LogMemory: Process Virtual Memory: 90.08 MB used, 90.08 MB peak
+[2020.02.23-05.48.15:284][  0]LogMemory: Physical Memory: 2761.82 MB used,  5305.78 MB free, 8067.60 MB total
+[2020.02.23-05.48.15:284][  0]LogMemory: Virtual Memory: 4673.29 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.02.23-05.48.15:329][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.23-05.48.16:268][  0]LogInit: Using OS detected language (en-US).
+[2020.02.23-05.48.16:268][  0]LogInit: Using OS detected locale (en-IN).
+[2020.02.23-05.48.16:328][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.23-05.48.17:034][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.23-05.48.17:826][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.23-05.48.17:826][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.23-05.48.20:119][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.23-05.48.20:119][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.23-05.48.20:843][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2020.02.23-05.48.20:844][  0]LogD3D11RHI:       1983/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.23-05.48.20:853][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.02.23-05.48.20:853][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.23-05.48.20:855][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.23-05.48.20:855][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.23-05.48.20:855][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.23-05.48.20:881][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.23-05.48.20:881][  0]LogD3D11RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.23-05.48.20:881][  0]LogWindows: EnumDisplayDevices:
+[2020.02.23-05.48.20:881][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.02.23-05.48.20:881][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.02.23-05.48.20:881][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.02.23-05.48.20:882][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.02.23-05.48.20:882][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2020.02.23-05.48.20:900][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.02.23-05.48.20:900][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.02.23-05.48.20:900][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2020.02.23-05.48.20:983][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.23-05.48.21:059][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.23-05.48.21:193][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.02.23-05.48.21:193][  0]LogWindows: Warning: URL: E:/SOFTWARES/Unreal/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe -Mode=ValidatePlatforms -allplatforms
+[2020.02.23-05.48.21:241][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.23-05.48.21:274][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.23-05.48.21:322][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.23-05.48.21:365][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.23-05.48.21:412][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.23-05.48.21:432][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.23-05.48.21:558][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.23-05.48.21:593][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.23-05.48.21:638][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.23-05.48.21:728][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.23-05.48.21:876][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.23-05.48.22:051][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.23-05.48.22:051][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.23-05.48.22:086][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.23-05.48.22:086][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.23-05.48.22:123][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.23-05.48.22:173][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.23-05.48.22:207][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.23-05.48.22:272][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.23-05.48.22:340][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.23-05.48.22:340][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.23-05.48.22:340][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.23-05.48.22:592][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.23-05.48.23:863][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Unreal Projects/Zombie_Game/Intermediate/Shaders/WorkingDirectory/6804/).
+[2020.02.23-05.48.23:863][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nag/AppData/Local/Temp/UnrealShaderWorkingDir/E893E3534EDB15158F83EF8C1C49249A/'.
+[2020.02.23-05.48.23:865][  0]LogXGEController: Cleaning working directory: C:/Users/Nag/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.23-05.48.23:865][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.23-05.48.23:865][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.23-05.48.23:865][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.23-05.48.26:951][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.23-05.48.28:122][  0]LogDerivedDataCache: Loaded boot cache 1.17s 74MB C:/Users/Nag/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.23-05.48.28:122][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nag/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.02.23-05.48.28:122][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/Zombie_Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.23-05.48.28:122][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.23-05.48.28:122][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/Zombie_Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.23-05.48.28:122][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.23-05.48.28:289][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.23-05.48.28:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.23-05.48.28:289][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.23-05.48.28:290][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.23-05.48.28:290][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.23-05.48.28:290][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.23-05.48.28:310][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.23-05.48.28:492][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.23-05.48.28:589][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.23-05.48.29:670][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2020.02.23-05.48.31:903][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.23-05.48.35:906][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.23-05.48.35:906][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.23-05.48.35:906][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.23-05.48.35:906][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.23-05.48.35:907][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.23-05.48.36:721][  0]LogNetVersion: Zombie_Game 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2874828335)
+[2020.02.23-05.48.45:311][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 1 prioritized culture(s) in 0.157631 seconds
+[2020.02.23-05.48.45:318][  0]LogUObjectArray: 43469 objects as part of root set at end of initial load.
+[2020.02.23-05.48.45:318][  0]LogUObjectAllocator: 7553416 out of 0 bytes used by permanent object pool.
+[2020.02.23-05.48.45:318][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.23-05.49.12:496][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.23-05.49.12:557][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.23-05.49.13:693][  0]SourceControl: Source control is disabled
+[2020.02.23-05.49.13:693][  0]SourceControl: Source control is disabled
+[2020.02.23-05.49.13:883][  0]SourceControl: Source control is disabled
+[2020.02.23-05.49.13:952][  0]SourceControl: Source control is disabled
+[2020.02.23-05.49.14:051][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.23-05.49.14:051][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.23-05.49.15:976][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.23-05.49.17:569][  0]LogOcInput: OculusInput pre-init called
+[2020.02.23-05.49.17:709][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.23-05.49.17:709][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.23-05.49.18:564][  0]LogEngine: Initializing Engine...
+[2020.02.23-05.49.18:565][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.23-05.49.18:567][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.02.23-05.49.19:472][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.23-05.49.19:565][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.23-05.49.19:588][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-05.49.20:341][  0]LogInit: FAudioDevice initialized.
+[2020.02.23-05.49.20:341][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.23-05.49.20:637][  0]LogDerivedDataCache: Saved boot cache 0.30s 74MB C:/Users/Nag/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.23-05.49.20:642][  0]LogInit: Texture streaming: Enabled
+[2020.02.23-05.49.20:871][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.23-05.49.20:871][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.23-05.49.20:872][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.23-05.49.21:871][  0]LogInit: Transaction tracking system initialized
+[2020.02.23-05.49.23:098][  0]BlueprintLog: New page: Editor Load
+[2020.02.23-05.49.29:823][  0]LocalizationService: Localization service is disabled
+[2020.02.23-05.49.31:157][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.02.23-05.49.31:157][  0]LogWindows: Warning: URL: E:/SOFTWARES/Unreal/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe -Mode=ValidatePlatforms -platforms=Android
+[2020.02.23-05.49.32:891][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.23-05.49.32:892][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.23-05.49.38:594][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.23-05.49.38:594][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.23-05.49.42:436][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Zombie_Game/Content/' took 2.39s
+[2020.02.23-05.49.50:056][  0]SourceControl: Source control is disabled
+[2020.02.23-05.49.50:096][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.23-05.49.50:097][  0]LightingResults: New page: Lighting Build
+[2020.02.23-05.49.50:156][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-05.49.50:156][  0]MapCheck: New page: Map Check
+[2020.02.23-05.49.50:156][  0]LightingResults: New page: Lighting Build
+[2020.02.23-05.49.50:180][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.23-05.50.54:265][  0]LogNiagaraEditor: Verbose: '/Game/Blueprints/Particles/Vomit/Vomit_system' Precompile took 0.045572 sec.
+[2020.02.23-05.50.54:266][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Vomit_system.Vomit_system:Vomit_emiter.SpawnScript_35' is in-sync skipping compile..
+[2020.02.23-05.50.54:266][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Vomit_system.Vomit_system:Vomit_emiter.UpdateScript_36' is in-sync skipping compile..
+[2020.02.23-05.50.54:266][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Vomit_system.Vomit_system:Vomit_emiter.EmitterSpawnScript_37' is in-sync skipping compile..
+[2020.02.23-05.50.54:266][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Vomit_system.Vomit_system:Vomit_emiter.EmitterUpdateScript_38' is in-sync skipping compile..
+[2020.02.23-05.50.54:266][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Vomit_system.Vomit_system:SystemSpawnScript' is in-sync skipping compile..
+[2020.02.23-05.50.54:266][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Vomit_system.Vomit_system:SystemUpdateScript' is in-sync skipping compile..
+[2020.02.23-05.51.03:781][  0]LogAIModule: Creating AISystem for world Level_3
+[2020.02.23-05.51.04:009][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.23-05.51.04:223][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.02.23-05.51.04:223][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.23-05.51.04:224][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2020.02.23-05.51.04:224][  0]LogFileHelpers: Loading map 'Level_3' took 74.127
+[2020.02.23-05.51.05:236][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.51.05:243][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.51.05:249][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.51.05:254][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.51.05:457][  0]LogCollectionManager: Loaded 0 collections in 0.001743 seconds
+[2020.02.23-05.51.05:463][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Zombie_Game/Saved/Collections/' took 0.00s
+[2020.02.23-05.51.05:463][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Zombie_Game/Content/Developers/Nag/Collections/' took 0.00s
+[2020.02.23-05.51.05:463][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Zombie_Game/Content/Collections/' took 0.00s
+[2020.02.23-05.51.05:463][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.02.23-05.51.05:471][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2999 classes and 698 folders.
+[2020.02.23-05.51.05:488][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.23-05.51.11:708][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.23-05.51.12:037][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.02.23-05.51.12:413][  0]LogSlate: Took 0.084524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.23-05.51.12:636][  0]LogSlate: Took 0.221558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.23-05.51.12:738][  0]LogSlate: Took 0.098214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.23-05.51.13:813][  0]LogRenderer: Reallocating scene render targets to support 1156x524 Format 10 NumSamples 1 (Frame:1).
+[2020.02.23-05.51.14:251][  0]LogSlate: Took 0.032098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.23-05.51.14:794][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.23-05.51.14:794][  0]LogLoad: (Engine Initialization) Total time: 209.69 seconds
+[2020.02.23-05.51.14:794][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.23-05.51.15:088][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.23-05.51.16:161][  6]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.23-05.51.36:149][167]LogAssetRegistry: Asset discovery search completed in 186.4802 seconds
+[2020.02.23-05.51.36:153][167]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.02.23-05.51.36:153][167]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2020.02.23-05.52.14:809][455]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={59C425BE-496B-3137-3F09-A8B6D4EE81DE}
+[2020.02.23-05.56.18:388][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-05.58.57:894][424]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.23-05.58.57:966][424]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-05.58.57:966][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-05.58.58:005][424]PIE: New page: PIE session: Level_3 (23-Feb-2020 4:58:57 pm)
+[2020.02.23-05.58.58:006][424]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.23-05.58.58:008][424]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-05.58.58:021][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013245s)
+[2020.02.23-05.58.58:023][424]LogAIModule: Creating AISystem for world Level_3
+[2020.02.23-05.58.58:023][424]LogPlayLevel: PIE: World Init took: (0.002034s)
+[2020.02.23-05.58.58:024][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Level_3.Level_3 to /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 (0.015678s)
+[2020.02.23-05.58.58:076][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.02.23-05.58.58:097][424]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-05.58.58:127][424]LogInit: FAudioDevice initialized.
+[2020.02.23-05.58.58:143][424]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.23-05.58.58:149][424]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 60) at 2020.02.23-11.28.58
+[2020.02.23-05.58.58:151][424]LogWorld: Bringing up level for play took: 0.005603
+[2020.02.23-05.58.58:151][424]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.02.23-05.58.58:163][424]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.02.23-05.58.58:169][424]LogBlueprintUserMessages: [Enemy_3_Playable_C_0] false
+[2020.02.23-05.58.58:169][424]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Level_3 0.021
+[2020.02.23-05.58.58:170][424]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-05.59.03:488][649]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-05.59.03:489][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.59.03:489][649]LogWorld: BeginTearingDown for /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-05.59.03:489][649]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-05.59.03:669][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-05.59.03:670][649]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-05.59.03:726][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.59.03:732][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.02.23-05.59.03:764][650]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.02.23-05.59.12:472][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-05.59.12:545][119]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.23-05.59.12:623][119]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-05.59.12:623][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-05.59.12:623][119]PIE: New page: PIE session: Level_3 (23-Feb-2020 4:59:12 pm)
+[2020.02.23-05.59.12:624][119]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-05.59.12:637][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013566s)
+[2020.02.23-05.59.12:640][119]LogAIModule: Creating AISystem for world Level_3
+[2020.02.23-05.59.12:640][119]LogPlayLevel: PIE: World Init took: (0.002669s)
+[2020.02.23-05.59.12:640][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Level_3.Level_3 to /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 (0.016526s)
+[2020.02.23-05.59.12:693][119]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.02.23-05.59.12:720][119]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-05.59.12:757][119]LogInit: FAudioDevice initialized.
+[2020.02.23-05.59.12:772][119]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.23-05.59.12:777][119]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 60) at 2020.02.23-11.29.12
+[2020.02.23-05.59.12:779][119]LogWorld: Bringing up level for play took: 0.007102
+[2020.02.23-05.59.12:779][119]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.02.23-05.59.12:792][119]LogBlueprintUserMessages: [Enemy_3_Playable_C_0] false
+[2020.02.23-05.59.12:792][119]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Level_3 0.644
+[2020.02.23-05.59.12:793][119]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-05.59.15:269][242]LogBlueprintUserMessages: [Enemy_3_Playable_C_0] success
+[2020.02.23-05.59.18:510][434]LogBlueprintUserMessages: [Enemy_3_Playable_C_0] success
+[2020.02.23-05.59.20:821][566]LogBlueprintUserMessages: [Ally_3] head
+[2020.02.23-05.59.24:994][791]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-05.59.25:011][792]LogBlueprintUserMessages: [Ally_3] hand_l
+[2020.02.23-05.59.25:028][793]LogBlueprintUserMessages: [Ally_3] spine_01
+[2020.02.23-05.59.26:144][860]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-05.59.26:160][861]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-05.59.26:177][862]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-05.59.27:194][923]LogBlueprintUserMessages: [Ally_3] spine_02
+[2020.02.23-05.59.30:587][126]LogCharacterMovement: Ally_3 is stuck and failed to move! Velocity: X=-97.74 Y=21.16 Z=0.00 Location: X=6177.22 Y=-2991.35 Z=557.47 Normal: X=0.98 Y=-0.04 Z=-0.19 PenetrationDepth:0.233 Actor:Enemy_3_Playable_C_0 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2020.02.23-05.59.33:692][306]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-05.59.33:710][307]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-05.59.33:728][308]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-05.59.34:758][365]LogBlueprintUserMessages: [Ally_3] spine_02
+[2020.02.23-05.59.34:776][366]LogBlueprintUserMessages: [Ally_3] spine_02
+[2020.02.23-05.59.34:795][367]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-05.59.37:878][540]LogBlueprintUserMessages: [Ally_3] spine_01
+[2020.02.23-05.59.37:896][541]LogBlueprintUserMessages: [Ally_3] hand_r
+[2020.02.23-05.59.37:914][542]LogBlueprintUserMessages: [Ally_3] hand_r
+[2020.02.23-05.59.38:838][591]LogBlueprintUserMessages: [Ally_3] calf_l
+[2020.02.23-05.59.38:877][593]LogBlueprintUserMessages: [Ally_3] spine_01
+[2020.02.23-05.59.42:505][788]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-05.59.42:506][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.59.42:506][788]LogWorld: BeginTearingDown for /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-05.59.42:506][788]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-05.59.42:556][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-05.59.42:556][788]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-05.59.42:613][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-05.59.42:619][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.02.23-05.59.42:653][789]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.23-05.59.44:460][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-06.00.25:376][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-06.00.25:504][161]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.23-06.00.25:574][161]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.00.25:574][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-06.00.25:574][161]PIE: New page: PIE session: Level_3 (23-Feb-2020 5:00:25 pm)
+[2020.02.23-06.00.25:574][161]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-06.00.25:588][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013121s)
+[2020.02.23-06.00.25:589][161]LogAIModule: Creating AISystem for world Level_3
+[2020.02.23-06.00.25:590][161]LogPlayLevel: PIE: World Init took: (0.002002s)
+[2020.02.23-06.00.25:590][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Level_3.Level_3 to /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 (0.015386s)
+[2020.02.23-06.00.25:641][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.02.23-06.00.25:659][161]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-06.00.25:688][161]LogInit: FAudioDevice initialized.
+[2020.02.23-06.00.25:697][161]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.23-06.00.25:703][161]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 60) at 2020.02.23-11.30.25
+[2020.02.23-06.00.25:704][161]LogWorld: Bringing up level for play took: 0.005585
+[2020.02.23-06.00.25:705][161]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.02.23-06.00.25:713][161]LogBlueprintUserMessages: [Enemy_3_Playable_C_0] false
+[2020.02.23-06.00.25:713][161]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Level_3 -0.435
+[2020.02.23-06.00.25:713][161]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.01.03:516][375]LogBlueprintUserMessages: [Ally_3] calf_l
+[2020.02.23-06.01.03:534][376]LogBlueprintUserMessages: [Ally_3] hand_r
+[2020.02.23-06.01.03:552][377]LogBlueprintUserMessages: [Ally_3] thigh_r
+[2020.02.23-06.01.03:570][378]LogBlueprintUserMessages: [Ally_3] hand_l
+[2020.02.23-06.01.06:168][532]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.01.06:184][533]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.01.06:201][534]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.01.06:218][535]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.01.06:234][536]LogBlueprintUserMessages: [Ally_3] hand_l
+[2020.02.23-06.01.06:251][537]LogBlueprintUserMessages: [Ally_3] hand_l
+[2020.02.23-06.01.07:145][590]LogBlueprintUserMessages: [Ally_3] spine_02
+[2020.02.23-06.01.07:162][591]LogBlueprintUserMessages: [Ally_3] spine_02
+[2020.02.23-06.01.07:195][593]LogBlueprintUserMessages: [Ally_3] hand_r
+[2020.02.23-06.01.08:095][647]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.01.10:662][801]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.01.10:679][802]LogBlueprintUserMessages: [Ally_3] spine_02
+[2020.02.23-06.01.11:829][871]LogBlueprintUserMessages: [Ally_3] head
+[2020.02.23-06.01.11:846][872]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.01.11:863][873]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.01.11:879][874]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.01.11:896][875]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.01.11:913][876]LogBlueprintUserMessages: [Ally_3] head
+[2020.02.23-06.01.15:112][ 68]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.01.15:128][ 69]LogBlueprintUserMessages: [Ally_3] spine_01
+[2020.02.23-06.01.15:145][ 70]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.01.16:013][122]LogBlueprintUserMessages: [Ally_3] calf_l
+[2020.02.23-06.01.16:030][123]LogBlueprintUserMessages: [Ally_3] calf_l
+[2020.02.23-06.01.16:046][124]LogBlueprintUserMessages: [Ally_3] thigh_l
+[2020.02.23-06.01.16:062][125]LogBlueprintUserMessages: [Ally_3] thigh_l
+[2020.02.23-06.01.16:096][127]LogBlueprintUserMessages: [Ally_3] calf_l
+[2020.02.23-06.01.16:112][128]LogBlueprintUserMessages: [Ally_3] head
+[2020.02.23-06.01.16:979][180]LogBlueprintUserMessages: [Ally_3] calf_l
+[2020.02.23-06.01.16:996][181]LogBlueprintUserMessages: [Ally_3] thigh_l
+[2020.02.23-06.01.17:013][182]LogBlueprintUserMessages: [Ally_3] thigh_r
+[2020.02.23-06.01.17:029][183]LogBlueprintUserMessages: [Ally_3] thigh_l
+[2020.02.23-06.01.17:046][184]LogBlueprintUserMessages: [Ally_3] head
+[2020.02.23-06.01.17:863][233]LogBlueprintUserMessages: [Ally_3] thigh_r
+[2020.02.23-06.01.17:879][234]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.01.17:896][235]LogBlueprintUserMessages: [Ally_3] thigh_r
+[2020.02.23-06.01.20:536][393]LogBlueprintUserMessages: [Ally_3] calf_l
+[2020.02.23-06.01.20:553][394]LogBlueprintUserMessages: [Ally_3] calf_l
+[2020.02.23-06.01.20:570][395]LogBlueprintUserMessages: [Ally_3] calf_r
+[2020.02.23-06.01.20:587][396]LogBlueprintUserMessages: [Ally_3] calf_r
+[2020.02.23-06.01.20:605][397]LogBlueprintUserMessages: [Ally_3] calf_r
+[2020.02.23-06.01.22:525][509]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.01.22:542][510]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.01.22:559][511]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.01.22:576][512]LogBlueprintUserMessages: [Ally_3] head
+[2020.02.23-06.01.22:593][513]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.01.23:552][570]LogBlueprintUserMessages: [Ally_3] head
+[2020.02.23-06.01.23:569][571]LogBlueprintUserMessages: [Ally_3] head
+[2020.02.23-06.01.23:619][574]LogBlueprintUserMessages: [Ally_3] hand_r
+[2020.02.23-06.01.23:636][575]LogBlueprintUserMessages: [Ally_3] hand_r
+[2020.02.23-06.01.24:822][646]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.01.24:839][647]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.01.24:872][649]LogBlueprintUserMessages: [Ally_3] thigh_l
+[2020.02.23-06.01.26:672][756]LogBlueprintUserMessages: [Ally_3] spine_01
+[2020.02.23-06.01.26:690][757]LogBlueprintUserMessages: [Ally_3] hand_r
+[2020.02.23-06.01.27:658][812]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.01.28:713][873]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.01.28:730][874]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.01.28:746][875]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.01.28:764][876]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.01.28:781][877]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.01.29:831][938]LogBlueprintUserMessages: [Ally_3] calf_l
+[2020.02.23-06.01.29:847][939]LogBlueprintUserMessages: [Ally_3] thigh_l
+[2020.02.23-06.01.29:864][940]LogBlueprintUserMessages: [Ally_3] hand_r
+[2020.02.23-06.01.29:882][941]LogBlueprintUserMessages: [Ally_3] head
+[2020.02.23-06.01.30:900][  1]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.01.30:933][  3]LogBlueprintUserMessages: [Ally_3] hand_r
+[2020.02.23-06.01.34:328][206]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.01.34:328][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-06.01.34:328][206]LogWorld: BeginTearingDown for /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-06.01.34:329][206]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-06.01.34:352][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-06.01.34:352][206]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.01.34:412][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-06.01.34:419][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.02.23-06.01.34:450][207]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.23-06.02.01:375][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-06.02.21:685][636]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Ally/Ally/Ally_1.Ally_1
+[2020.02.23-06.02.22:587][636]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.02.23-06.02.24:647][636]LogSlate: Took 0.007727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.23-06.02.25:228][637]LogSlate: Took 0.042790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.23-06.02.47:682][620]BlueprintLog: New page: Compile Ally_1
+[2020.02.23-06.02.48:181][620]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2020.02.23-06.02.48:756][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Ally/Ally/Ally_1" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Characters/Ally/Ally/Ally_1.uasset" SILENT=true
+[2020.02.23-06.02.49:101][625]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Ally_11215199647F718396454CA9484168F34.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Characters/Ally/Ally/Ally_1.uasset'
+[2020.02.23-06.03.03:010][323]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.23-06.03.03:084][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.03.03:084][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-06.03.03:084][323]PIE: New page: PIE session: Level_3 (23-Feb-2020 5:03:03 pm)
+[2020.02.23-06.03.03:084][323]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-06.03.03:097][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012728s)
+[2020.02.23-06.03.03:099][323]LogAIModule: Creating AISystem for world Level_3
+[2020.02.23-06.03.03:099][323]LogPlayLevel: PIE: World Init took: (0.001809s)
+[2020.02.23-06.03.03:099][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Level_3.Level_3 to /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 (0.014811s)
+[2020.02.23-06.03.03:170][323]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2020.02.23-06.03.03:190][323]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-06.03.03:219][323]LogInit: FAudioDevice initialized.
+[2020.02.23-06.03.03:233][323]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.23-06.03.03:238][323]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 60) at 2020.02.23-11.33.03
+[2020.02.23-06.03.03:240][323]LogWorld: Bringing up level for play took: 0.004717
+[2020.02.23-06.03.03:240][323]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.02.23-06.03.03:249][323]LogBlueprintUserMessages: [Enemy_3_Playable_C_0] false
+[2020.02.23-06.03.03:249][323]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Level_3 1.101
+[2020.02.23-06.03.03:249][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.03.07:830][582]LogBlueprintUserMessages: [Ally_3] spine_01
+[2020.02.23-06.03.07:882][585]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.03.09:739][694]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.03.09:794][697]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.03.12:685][857]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.03.12:741][860]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.03.14:819][975]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.03.14:872][978]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.03.16:623][ 76]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.03.16:672][ 79]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.03.18:413][177]LogBlueprintUserMessages: [Ally_3] thigh_l
+[2020.02.23-06.03.18:468][180]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.03.19:439][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.03.19:439][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-06.03.19:439][234]LogWorld: BeginTearingDown for /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-06.03.19:440][234]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-06.03.19:501][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-06.03.19:501][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.03.19:570][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-06.03.19:577][234]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2020.02.23-06.03.19:612][235]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.23-06.03.22:303][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-06.03.27:545][524]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Blueprints/Characters/Ally/Ally/Ally_1_ANim_BP.Ally_1_ANim_BP
+[2020.02.23-06.03.27:741][524]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.02.23-06.03.28:231][524]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.23-06.03.28:243][524]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2020.02.23-06.03.28:848][524]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.23-06.03.30:324][524]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.23-06.06.07:086][157]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Blueprints/Characters/Ally/Ally1_mesh/ally_1_Skeleton.ally_1_Skeleton
+[2020.02.23-06.06.07:111][157]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.23-06.06.07:214][157]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.23-06.06.07:999][158]LogRenderer: Reallocating scene render targets to support 1156x884 Format 10 NumSamples 1 (Frame:1).
+[2020.02.23-06.06.26:254][792]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Ally/Ally/Idle__1_.Idle__1_
+[2020.02.23-06.06.26:378][792]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.23-06.06.26:464][792]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.23-06.06.27:984][792]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.23-06.06.40:972][251]BlueprintLog: New page: Compile Ally_1_ANim_BP
+[2020.02.23-06.06.41:724][251]LogUObjectHash: Compacting FUObjectHashTables data took  10.67ms
+[2020.02.23-06.06.54:151][685]BlueprintLog: New page: Compile Ally_1_ANim_BP
+[2020.02.23-06.06.54:760][685]LogUObjectHash: Compacting FUObjectHashTables data took   9.51ms
+[2020.02.23-06.07.05:559][ 59]BlueprintLog: New page: Compile Ally_1_ANim_BP
+[2020.02.23-06.07.06:090][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   8.83ms
+[2020.02.23-06.07.19:180][511]BlueprintLog: New page: Compile Ally_1_ANim_BP
+[2020.02.23-06.07.19:720][511]LogUObjectHash: Compacting FUObjectHashTables data took   8.76ms
+[2020.02.23-06.07.31:910][940]BlueprintLog: New page: Compile Ally_1_ANim_BP
+[2020.02.23-06.07.32:434][940]LogUObjectHash: Compacting FUObjectHashTables data took   8.82ms
+[2020.02.23-06.07.38:467][135]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Ally_1_ANim_BP38DDC8704FDD164EF74FBFA4BB798F5B.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Characters/Ally/Ally/Ally_1_ANim_BP.uasset'
+[2020.02.23-06.07.43:434][297]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Ally_1_ANim_BP1F497BE1419481FFA5FF2FB7A7132E42.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Characters/Ally/Ally/Ally_1_ANim_BP.uasset'
+[2020.02.23-06.07.47:535][456]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.23-06.07.47:606][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.07.47:606][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-06.07.47:606][456]PIE: New page: PIE session: Level_3 (23-Feb-2020 5:07:47 pm)
+[2020.02.23-06.07.47:606][456]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-06.07.47:619][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012992s)
+[2020.02.23-06.07.47:621][456]LogAIModule: Creating AISystem for world Level_3
+[2020.02.23-06.07.47:621][456]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2020.02.23-06.07.47:621][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Level_3.Level_3 to /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 (0.014864s)
+[2020.02.23-06.07.47:704][456]LogUObjectHash: Compacting FUObjectHashTables data took   8.62ms
+[2020.02.23-06.07.47:723][456]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-06.07.47:753][456]LogInit: FAudioDevice initialized.
+[2020.02.23-06.07.47:762][456]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.23-06.07.47:767][456]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 60) at 2020.02.23-11.37.47
+[2020.02.23-06.07.47:768][456]LogWorld: Bringing up level for play took: 0.004597
+[2020.02.23-06.07.47:768][456]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.02.23-06.07.47:776][456]LogBlueprintUserMessages: [Enemy_3_Playable_C_0] false
+[2020.02.23-06.07.47:777][456]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Level_3 -0.372
+[2020.02.23-06.07.47:777][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.07.50:155][582]LogBlueprintUserMessages: [Ally_3] upperarm_r
+[2020.02.23-06.07.50:206][585]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.07.51:971][686]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.07.52:025][689]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.07.53:738][787]LogBlueprintUserMessages: [Ally_3] thigh_l
+[2020.02.23-06.07.53:792][790]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.07.56:542][943]LogBlueprintUserMessages: [Ally_3] head
+[2020.02.23-06.07.56:597][946]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.07.58:836][ 71]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.07.58:890][ 74]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.08.00:617][169]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.08.02:376][265]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.08.02:431][268]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.08.03:599][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.08.03:599][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-06.08.03:599][332]LogWorld: BeginTearingDown for /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-06.08.03:600][332]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-06.08.03:652][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-06.08.03:652][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.08.03:737][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-06.08.03:745][332]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2020.02.23-06.08.03:780][333]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.02.23-06.08.04:274][342]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.23-06.08.10:557][521]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Ally/Ally1_mesh/ANimations/React/Hit_Reaction.Hit_Reaction
+[2020.02.23-06.08.11:030][521]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-06.08.17:879][725]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Blueprints/Characters/Ally/Ally1_mesh/ANimations/React/Reaction.Reaction
+[2020.02.23-06.08.17:880][725]LogAnimationCompression: Recompressing (AnimSequence /Game/Blueprints/Characters/Ally/Ally1_mesh/ANimations/React/Reaction.Reaction) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.23-06.08.18:432][725]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-06.08.24:173][892]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Blueprints/Characters/Ally/Ally1_mesh/ANimations/React/Standing_React_Large_From_Left.Standing_React_Large_From_Left
+[2020.02.23-06.08.24:173][892]LogAnimationCompression: Recompressing (AnimSequence /Game/Blueprints/Characters/Ally/Ally1_mesh/ANimations/React/Standing_React_Large_From_Left.Standing_React_Large_From_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.23-06.08.24:786][892]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-06.08.27:482][963]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Blueprints/Characters/Ally/Ally1_mesh/ANimations/React/Standing_React_Small_From_Front_02.Standing_React_Small_From_Front_02
+[2020.02.23-06.08.27:482][963]LogAnimationCompression: Recompressing (AnimSequence /Game/Blueprints/Characters/Ally/Ally1_mesh/ANimations/React/Standing_React_Small_From_Front_02.Standing_React_Small_From_Front_02) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.23-06.08.27:971][963]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-06.08.32:962][102]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-06.08.35:657][171]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-06.08.52:830][722]BlueprintLog: New page: Compile Ally_1_ANim_BP
+[2020.02.23-06.08.53:391][722]LogUObjectHash: Compacting FUObjectHashTables data took   9.44ms
+[2020.02.23-06.09.06:297][143]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Reaction65CE45AD4AF103FD8D69CF9812EF9267.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Characters/Ally/Ally1_mesh/ANimations/React/Reaction.uasset'
+[2020.02.23-06.09.07:094][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-06.09.09:684][239]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Ally_1_ANim_BP656C231548A90A08CC1D44A44A012BAA.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Characters/Ally/Ally/Ally_1_ANim_BP.uasset'
+[2020.02.23-06.09.12:071][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-06.09.19:614][576]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Ally_1_ANim_BPA60A72424444D1982EB1FC86C8669021.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Characters/Ally/Ally/Ally_1_ANim_BP.uasset'
+[2020.02.23-06.09.21:298][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-06.09.22:281][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-06.09.22:341][681]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.23-06.09.22:408][681]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.09.22:409][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-06.09.22:409][681]PIE: New page: PIE session: Level_3 (23-Feb-2020 5:09:22 pm)
+[2020.02.23-06.09.22:409][681]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-06.09.22:422][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012703s)
+[2020.02.23-06.09.22:424][681]LogAIModule: Creating AISystem for world Level_3
+[2020.02.23-06.09.22:424][681]LogPlayLevel: PIE: World Init took: (0.002677s)
+[2020.02.23-06.09.22:425][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Level_3.Level_3 to /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 (0.015640s)
+[2020.02.23-06.09.22:500][681]LogUObjectHash: Compacting FUObjectHashTables data took   8.44ms
+[2020.02.23-06.09.22:519][681]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-06.09.22:549][681]LogInit: FAudioDevice initialized.
+[2020.02.23-06.09.22:559][681]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.23-06.09.22:565][681]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 60) at 2020.02.23-11.39.22
+[2020.02.23-06.09.22:565][681]LogWorld: Bringing up level for play took: 0.004901
+[2020.02.23-06.09.22:565][681]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.02.23-06.09.22:574][681]LogBlueprintUserMessages: [Enemy_3_Playable_C_0] false
+[2020.02.23-06.09.22:574][681]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Level_3 0.426
+[2020.02.23-06.09.22:575][681]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.09.29:902][ 96]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.09.29:902][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-06.09.29:902][ 96]LogWorld: BeginTearingDown for /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-06.09.29:903][ 96]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-06.09.29:945][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-06.09.29:945][ 96]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.09.30:030][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-06.09.30:038][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2020.02.23-06.09.30:077][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.02.23-06.09.30:446][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.23-06.09.32:577][141]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Ally_1_ANim_BPD22024924CD1E59A9C2535B8CE55BB9E.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Characters/Ally/Ally/Ally_1_ANim_BP.uasset'
+[2020.02.23-06.09.33:690][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-06.10.06:285][440]BlueprintLog: New page: Compile Ally_1_ANim_BP
+[2020.02.23-06.10.06:813][440]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2020.02.23-06.10.13:611][687]BlueprintLog: New page: Compile Ally_1_ANim_BP
+[2020.02.23-06.10.14:141][687]LogUObjectHash: Compacting FUObjectHashTables data took   8.88ms
+[2020.02.23-06.10.16:294][749]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Ally_1_ANim_BPAA60BD2B4C0B41AFAAF1E7B98214FDE2.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Characters/Ally/Ally/Ally_1_ANim_BP.uasset'
+[2020.02.23-06.10.16:882][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-06.10.17:742][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-06.10.17:815][811]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.23-06.10.17:887][811]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.10.17:887][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-06.10.17:888][811]PIE: New page: PIE session: Level_3 (23-Feb-2020 5:10:17 pm)
+[2020.02.23-06.10.17:888][811]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-06.10.17:900][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012472s)
+[2020.02.23-06.10.17:902][811]LogAIModule: Creating AISystem for world Level_3
+[2020.02.23-06.10.17:903][811]LogPlayLevel: PIE: World Init took: (0.002221s)
+[2020.02.23-06.10.17:903][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Level_3.Level_3 to /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 (0.015001s)
+[2020.02.23-06.10.17:974][811]LogUObjectHash: Compacting FUObjectHashTables data took   8.33ms
+[2020.02.23-06.10.17:993][811]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-06.10.18:021][811]LogInit: FAudioDevice initialized.
+[2020.02.23-06.10.18:033][811]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.23-06.10.18:038][811]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 60) at 2020.02.23-11.40.18
+[2020.02.23-06.10.18:039][811]LogWorld: Bringing up level for play took: 0.004439
+[2020.02.23-06.10.18:040][811]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.02.23-06.10.18:048][811]LogBlueprintUserMessages: [Enemy_3_Playable_C_0] false
+[2020.02.23-06.10.18:048][811]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Level_3 -0.1
+[2020.02.23-06.10.18:048][811]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.10.21:182][987]LogBlueprintUserMessages: [Ally_3] spine_02
+[2020.02.23-06.10.21:234][990]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.22:914][ 87]LogBlueprintUserMessages: [Ally_3] thigh_l
+[2020.02.23-06.10.22:968][ 90]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.24:793][194]LogBlueprintUserMessages: [Ally_3] spine_01
+[2020.02.23-06.10.24:845][197]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.26:251][279]LogCharacterMovement: Enemy_3_Playable_C_0 is stuck and failed to move! Velocity: X=486.74 Y=350.83 Z=0.00 Location: X=5975.33 Y=-3370.08 Z=559.60 Normal: X=0.97 Y=-0.25 Z=0.00 PenetrationDepth:16.475 Actor:Ally_3 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2020.02.23-06.10.28:179][388]LogBlueprintUserMessages: [Ally_3] hand_l
+[2020.02.23-06.10.28:231][391]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.28:266][393]LogCharacterMovement: Ally_3 is stuck and failed to move! Velocity: X=46.65 Y=55.21 Z=14.10 Location: X=6354.30 Y=-3282.05 Z=559.66 Normal: X=0.53 Y=0.85 Z=-0.01 PenetrationDepth:11.270 Actor:Enemy_3_Playable_C_0 Component:CharacterMesh0 BoneName:foot_l (0 other events since notify)
+[2020.02.23-06.10.31:274][561]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.10.31:329][564]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.33:238][669]LogBlueprintUserMessages: [Ally_3] spine_02
+[2020.02.23-06.10.33:294][672]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.36:522][850]LogBlueprintUserMessages: [Ally_3] upperarm_r
+[2020.02.23-06.10.36:575][853]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.38:464][959]LogBlueprintUserMessages: [Ally_3] calf_l
+[2020.02.23-06.10.38:517][962]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.40:381][ 68]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.10.40:437][ 71]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.42:268][169]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.10.42:325][172]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.44:878][312]LogBlueprintUserMessages: [Ally_3] upperarm_r
+[2020.02.23-06.10.44:932][315]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.46:353][397]LogCharacterMovement: Enemy_3_Playable_C_0 is stuck and failed to move! Velocity: X=585.94 Y=-129.12 Z=0.00 Location: X=5966.50 Y=-3252.28 Z=560.73 Normal: X=0.23 Y=-0.97 Z=0.00 PenetrationDepth:16.020 Actor:Ally_3 Component:CharacterMesh0 BoneName:hand_l (2 other events since notify)
+[2020.02.23-06.10.46:666][415]LogBlueprintUserMessages: [Ally_3] calf_l
+[2020.02.23-06.10.46:720][418]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.49:174][557]LogBlueprintUserMessages: [Ally_3] thigh_l
+[2020.02.23-06.10.49:228][560]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.50:972][659]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.10.51:026][662]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.52:605][752]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.10.52:658][755]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.55:033][887]LogCharacterMovement: Enemy_3_Playable_C_0 is stuck and failed to move! Velocity: X=326.27 Y=-191.45 Z=0.00 Location: X=5815.59 Y=-3228.69 Z=559.60 Normal: X=-0.72 Y=-0.70 Z=0.00 PenetrationDepth:14.036 Actor:Ally_3 Component:CharacterMesh0 BoneName:hand_l (2 other events since notify)
+[2020.02.23-06.10.55:561][916]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.10.55:615][919]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.57:386][ 15]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.10.57:440][ 18]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.10.58:600][ 84]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.10.58:600][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-06.10.58:600][ 84]LogWorld: BeginTearingDown for /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-06.10.58:601][ 84]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-06.10.58:650][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-06.10.58:650][ 84]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.10.58:729][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-06.10.58:738][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2020.02.23-06.10.58:773][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.02.23-06.10.59:747][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-06.11.01:016][158]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Blueprints/Characters/Ally/Ally/AI/Ally_1_BT.Ally_1_BT
+[2020.02.23-06.11.21:538][128]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Ally_1_BTF18BDC804168213C179C74B65B6F9145.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Characters/Ally/Ally/AI/Ally_1_BT.uasset'
+[2020.02.23-06.11.23:818][251]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.23-06.11.23:891][251]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.11.23:895][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-06.11.23:895][251]PIE: New page: PIE session: Level_3 (23-Feb-2020 5:11:23 pm)
+[2020.02.23-06.11.23:895][251]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-06.11.23:908][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013063s)
+[2020.02.23-06.11.23:911][251]LogAIModule: Creating AISystem for world Level_3
+[2020.02.23-06.11.23:911][251]LogPlayLevel: PIE: World Init took: (0.002631s)
+[2020.02.23-06.11.23:911][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Level_3.Level_3 to /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 (0.015965s)
+[2020.02.23-06.11.23:984][251]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2020.02.23-06.11.24:003][251]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-06.11.24:032][251]LogInit: FAudioDevice initialized.
+[2020.02.23-06.11.24:041][251]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.23-06.11.24:046][251]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 60) at 2020.02.23-11.41.24
+[2020.02.23-06.11.24:048][251]LogWorld: Bringing up level for play took: 0.004734
+[2020.02.23-06.11.24:048][251]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.02.23-06.11.24:054][251]LogBlueprintUserMessages: [Enemy_3_Playable_C_0] false
+[2020.02.23-06.11.24:054][251]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Level_3 -0.094
+[2020.02.23-06.11.24:054][251]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.11.26:976][412]LogBlueprintUserMessages: [Ally_3] calf_r
+[2020.02.23-06.11.27:029][415]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.11.30:451][611]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.11.30:503][614]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.11.36:369][943]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.11.36:425][946]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.11.39:409][109]LogBlueprintUserMessages: [Ally_3] spine_01
+[2020.02.23-06.11.39:464][112]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.11.42:638][285]LogBlueprintUserMessages: [Ally_3] thigh_r
+[2020.02.23-06.11.42:654][286]LogCharacterMovement: Ally_3 is stuck and failed to move! Velocity: X=48.52 Y=-13.67 Z=0.02 Location: X=5703.00 Y=-3376.53 Z=579.78 Normal: X=-0.59 Y=0.63 Z=0.51 PenetrationDepth:6.765 Actor:Enemy_3_Playable_C_0 Component:CharacterMesh0 BoneName:calf_r (0 other events since notify)
+[2020.02.23-06.11.42:693][288]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.11.44:439][382]LogBlueprintUserMessages: [Ally_3] spine_01
+[2020.02.23-06.11.44:494][385]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.11.46:223][481]LogBlueprintUserMessages: [Ally_3] spine_03
+[2020.02.23-06.11.46:277][484]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.11.48:799][629]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.11.48:849][632]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.11.51:315][780]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.11.51:365][783]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.11.53:817][930]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.11.53:867][933]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.11.55:599][ 37]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.11.55:649][ 40]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.11.58:367][203]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.11.58:417][206]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.12.01:650][400]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.12.01:700][403]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.12.04:667][581]LogBlueprintUserMessages: [Ally_3] spine_02
+[2020.02.23-06.12.04:699][583]LogCharacterMovement: Ally_3 is stuck and failed to move! Velocity: X=31.35 Y=10.28 Z=0.66 Location: X=5057.74 Y=-4190.12 Z=559.57 Normal: X=-0.77 Y=-0.63 Z=0.01 PenetrationDepth:20.412 Actor:Enemy_3_Playable_C_0 Component:CharacterMesh0 BoneName:foot_l (1 other events since notify)
+[2020.02.23-06.12.04:717][584]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.12.08:084][786]LogBlueprintUserMessages: [Ally_3] hand_l
+[2020.02.23-06.12.08:134][789]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.12.09:834][891]LogBlueprintUserMessages: [Ally_3] head
+[2020.02.23-06.12.09:884][894]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.12.11:536][993]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.12.11:541][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-06.12.11:541][993]LogWorld: BeginTearingDown for /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-06.12.11:542][993]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-06.12.11:558][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-06.12.11:558][993]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.12.11:646][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-06.12.11:655][993]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2020.02.23-06.12.11:689][994]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.02.23-06.12.35:777][414]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.23-06.12.35:881][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.02.23-06.12.36:478][414]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_3_Auto134C53DA0453E6B7707D5B58B2C7D9464.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Saved/Autosaves/Game/Blueprints/Maps/Level_3_Auto1.umap'
+[2020.02.23-06.12.36:501][414]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/Maps/Level_3' took 0.690
+[2020.02.23-06.12.36:501][414]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.690
+[2020.02.23-06.21.14:968][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-06.21.15:100][511]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.23-06.21.15:172][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.21.15:176][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.23-06.21.15:176][511]PIE: New page: PIE session: Level_3 (23-Feb-2020 5:21:15 pm)
+[2020.02.23-06.21.15:177][511]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-06.21.15:190][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013414s)
+[2020.02.23-06.21.15:192][511]LogAIModule: Creating AISystem for world Level_3
+[2020.02.23-06.21.15:193][511]LogPlayLevel: PIE: World Init took: (0.002697s)
+[2020.02.23-06.21.15:193][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Level_3.Level_3 to /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 (0.016353s)
+[2020.02.23-06.21.15:273][511]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2020.02.23-06.21.15:292][511]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.23-06.21.15:322][511]LogInit: FAudioDevice initialized.
+[2020.02.23-06.21.15:333][511]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.23-06.21.15:339][511]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Level_3.Level_3 up for play (max tick rate 0) at 2020.02.23-11.51.15
+[2020.02.23-06.21.15:340][511]LogWorld: Bringing up level for play took: 0.004933
+[2020.02.23-06.21.15:340][511]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.02.23-06.21.15:346][511]LogBlueprintUserMessages: [Enemy_3_Playable_C_0] false
+[2020.02.23-06.21.15:347][511]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Level_3 -0.802
+[2020.02.23-06.21.15:347][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.21.18:850][709]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.21.22:722][933]LogBlueprintUserMessages: [Ally_3] foot_r
+[2020.02.23-06.21.22:756][935]LogCharacterMovement: Ally_3 is stuck and failed to move! Velocity: X=14.66 Y=-27.98 Z=0.79 Location: X=5966.74 Y=-3322.49 Z=557.40 Normal: X=0.83 Y=-0.55 Z=-0.13 PenetrationDepth:5.175 Actor:Enemy_3_Playable_C_0 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2020.02.23-06.21.22:773][936]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.21.26:348][143]LogBlueprintUserMessages: [Ally_3] hand_l
+[2020.02.23-06.21.26:400][146]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.21.28:483][265]LogBlueprintUserMessages: [Ally_3] upperarm_l
+[2020.02.23-06.21.28:535][268]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.21.33:112][531]LogBlueprintUserMessages: [Ally_3] calf_r
+[2020.02.23-06.21.33:148][533]LogCharacterMovement: Ally_3 is stuck and failed to move! Velocity: X=17.16 Y=-23.55 Z=1.08 Location: X=5662.22 Y=-3469.18 Z=559.83 Normal: X=0.05 Y=1.00 Z=0.00 PenetrationDepth:2.290 Actor:Enemy_3_Playable_C_0 Component:CharacterMesh0 BoneName:thigh_l (0 other events since notify)
+[2020.02.23-06.21.33:167][534]LogBlueprintUserMessages: [Ally_1_AIController_C_0] panic
+[2020.02.23-06.21.34:649][615]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.21.34:653][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-06.21.34:653][615]LogWorld: BeginTearingDown for /Game/Blueprints/Maps/UEDPIE_0_Level_3
+[2020.02.23-06.21.34:654][615]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.23-06.21.34:701][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.23-06.21.34:701][615]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3' with GeneratedClass '/Game/Blueprints/Maps/Level_3.Level_3_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level_3.Level_3:PersistentLevel.Level_3'
+[2020.02.23-06.21.34:783][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.23-06.21.34:793][615]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2020.02.23-06.21.34:827][616]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.02.23-06.21.35:711][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.23-06.23.47:875][955]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Enemy/Enemy_3/Notifies/Leg_L_notify.Leg_L_notify
+[2020.02.23-06.25.04:577][657]LogUObjectArray: Warning: Invalid object index 6619241
+[2020.02.23-06.25.04:655][657]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.23-06.25.08:330][657]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.676 s
+[2020.02.23-06.25.08:330][657]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.23-06.25.08:330][657]LogOutputDevice: Error: 
+[2020.02.23-06.25.08:330][657]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2020.02.23-06.25.08:330][657]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.02.23-06.25.08:330][657]LogOutputDevice: Error: Stack: 
+[2020.02.23-06.25.08:330][657]LogOutputDevice: Error: [Callstack] 0x00007fffc55a5279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-06.25.08:330][657]LogOutputDevice: Error: [Callstack] 0x00007fffc4dc7fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-06.25.08:330][657]LogOutputDevice: Error: [Callstack] 0x00007fffc4dd622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007fffc1c86c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007fffc0504dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007fffc04be057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007fffc692d644 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007fffc6b1c533 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007fffc697922b UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007fffc6955738 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007fffc6949a1e UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007fffe1904c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007fffe18f26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007fffe1907340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007fffe18eedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007ff81b3c7446 USER32.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007ff81b3c6f62 USER32.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007fffe19088e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007ff707be6980 UE4Editor.exe!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007ff707bfa91c UE4Editor.exe!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007ff707bfa9fa UE4Editor.exe!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007ff707c0b92c UE4Editor.exe!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007ff707c0e60e UE4Editor.exe!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007ff81b257974 KERNEL32.DLL!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: [Callstack] 0x00007ff81c2fa261 ntdll.dll!UnknownFunction []
+[2020.02.23-06.25.08:331][657]LogOutputDevice: Error: 
+[2020.02.23-06.25.08:456][657]LogStats:                SubmitErrorReport -  0.000 s

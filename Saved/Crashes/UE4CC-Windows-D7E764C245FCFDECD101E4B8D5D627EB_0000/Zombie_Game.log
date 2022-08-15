@@ -1,0 +1,1361 @@
+﻿Log file open, 02/27/20 18:50:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Zombie_Game
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.567744
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: E:/SOFTWARES/Unreal/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.27-13.20.35:979][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.27-13.20.35:979][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Engine.ini]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Engine.ini]
+[2020.02.27-13.20.35:995][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Engine.ini]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Engine.ini]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.27-13.20.35:995][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Engine.ini]
+[2020.02.27-13.20.35:995][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Engine.ini]
+[2020.02.27-13.20.36:214][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-13.20.36:214][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.27-13.20.36:214][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.27-13.20.36:214][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-13.20.36:214][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.27-13.20.36:214][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.27-13.20.36:229][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.27-13.20.36:261][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.27-13.20.36:276][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.27-13.20.36:339][  0]LogHAL: Display: Platform has ~ 8 GB [8459489280 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.27-13.20.36:339][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.27-13.20.36:339][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Scalability.ini]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.27-13.20.36:339][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.27-13.20.36:370][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.27-13.20.36:370][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.27-13.20.36:370][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.02.27-13.20.36:370][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Projects/Zombie_Game/Saved/Config/Windows/Engine.ini]
+[2020.02.27-13.20.36:535][  0]LogInit: Computer: DESKTOP-FA3HG1E
+[2020.02.27-13.20.36:535][  0]LogInit: User: Nag
+[2020.02.27-13.20.36:535][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.27-13.20.36:535][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.27-13.20.36:547][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.02.27-13.20.36:547][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.27-13.20.36:547][  0]LogMemory: Process Physical Memory: 98.14 MB used, 98.14 MB peak
+[2020.02.27-13.20.36:547][  0]LogMemory: Process Virtual Memory: 89.97 MB used, 89.97 MB peak
+[2020.02.27-13.20.36:547][  0]LogMemory: Physical Memory: 2375.18 MB used,  5692.42 MB free, 8067.60 MB total
+[2020.02.27-13.20.36:547][  0]LogMemory: Virtual Memory: 4673.29 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.02.27-13.20.36:601][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.27-13.20.38:457][  0]LogInit: Using OS detected language (en-US).
+[2020.02.27-13.20.38:457][  0]LogInit: Using OS detected locale (en-IN).
+[2020.02.27-13.20.38:754][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.27-13.20.40:718][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.27-13.20.42:476][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.27-13.20.42:476][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.27-13.20.52:106][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.27-13.20.52:106][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.27-13.20.55:910][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2020.02.27-13.20.55:910][  0]LogD3D11RHI:       1983/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.27-13.20.55:928][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.02.27-13.20.55:928][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.27-13.20.55:932][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.27-13.20.55:932][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.27-13.20.55:932][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.27-13.20.56:021][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.27-13.20.56:021][  0]LogD3D11RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.27-13.20.56:021][  0]LogWindows: EnumDisplayDevices:
+[2020.02.27-13.20.56:021][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.02.27-13.20.56:022][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.02.27-13.20.56:022][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.02.27-13.20.56:022][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.02.27-13.20.56:022][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2020.02.27-13.20.56:023][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.02.27-13.20.56:023][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.02.27-13.20.56:023][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2020.02.27-13.20.56:267][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.27-13.20.56:750][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.27-13.20.57:097][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.02.27-13.20.57:097][  0]LogWindows: Warning: URL: E:/SOFTWARES/Unreal/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe -Mode=ValidatePlatforms -allplatforms
+[2020.02.27-13.20.57:366][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.27-13.20.57:447][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.27-13.20.57:504][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.27-13.20.57:561][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.27-13.20.57:749][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.27-13.20.57:829][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.27-13.20.57:974][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.27-13.20.58:024][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.27-13.20.58:135][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.27-13.20.58:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.27-13.20.58:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.27-13.20.58:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.27-13.20.58:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.27-13.20.58:326][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.27-13.20.58:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.27-13.20.58:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.27-13.20.58:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.27-13.20.58:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.27-13.20.58:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.27-13.20.58:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.27-13.20.58:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.27-13.20.58:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.27-13.20.58:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.27-13.20.58:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.27-13.20.58:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.27-13.20.58:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.27-13.20.58:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.27-13.20.58:640][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.27-13.20.59:228][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.27-13.20.59:228][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.27-13.20.59:306][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.27-13.20.59:306][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.27-13.20.59:367][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.27-13.20.59:422][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.27-13.20.59:492][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.27-13.20.59:674][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.27-13.20.59:764][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.27-13.20.59:764][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.27-13.20.59:764][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.27-13.21.00:222][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.27-13.21.02:568][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Unreal Projects/Zombie_Game/Intermediate/Shaders/WorkingDirectory/2544/).
+[2020.02.27-13.21.02:568][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nag/AppData/Local/Temp/UnrealShaderWorkingDir/9C0F385E4CB0B753D3AF77959EC1ACB0/'.
+[2020.02.27-13.21.02:580][  0]LogXGEController: Cleaning working directory: C:/Users/Nag/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.27-13.21.02:580][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.27-13.21.02:581][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.27-13.21.02:581][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.27-13.21.16:867][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.27-13.21.18:475][  0]LogDerivedDataCache: Loaded boot cache 1.56s 74MB C:/Users/Nag/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.27-13.21.18:475][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nag/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.02.27-13.21.18:475][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/Zombie_Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.27-13.21.18:475][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.27-13.21.18:475][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/Zombie_Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.27-13.21.18:475][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.27-13.21.18:945][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.27-13.21.18:945][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.27-13.21.18:945][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.27-13.21.18:978][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.27-13.21.18:978][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.27-13.21.18:978][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.27-13.21.19:691][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.27-13.21.20:292][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.27-13.21.20:449][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.27-13.21.23:952][  0]LogAssetRegistry: FAssetRegistry took 0.0373 seconds to start up
+[2020.02.27-13.21.31:607][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.27-13.21.38:820][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.27-13.21.38:820][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.27-13.21.38:820][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.27-13.21.38:820][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.27-13.21.38:830][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.27-13.21.40:990][  0]LogNetVersion: Zombie_Game 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2874828335)
+[2020.02.27-13.22.01:003][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 1 prioritized culture(s) in 0.391887 seconds
+[2020.02.27-13.22.01:012][  0]LogUObjectArray: 43469 objects as part of root set at end of initial load.
+[2020.02.27-13.22.01:012][  0]LogUObjectAllocator: 7553416 out of 0 bytes used by permanent object pool.
+[2020.02.27-13.22.01:012][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.27-13.22.39:691][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.27-13.22.39:750][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.27-13.22.42:652][  0]SourceControl: Source control is disabled
+[2020.02.27-13.22.42:669][  0]SourceControl: Source control is disabled
+[2020.02.27-13.22.43:031][  0]SourceControl: Source control is disabled
+[2020.02.27-13.22.43:073][  0]SourceControl: Source control is disabled
+[2020.02.27-13.22.43:318][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.27-13.22.43:318][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.27-13.22.47:888][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.27-13.22.51:073][  0]LogOcInput: OculusInput pre-init called
+[2020.02.27-13.22.51:372][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.27-13.22.51:372][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.27-13.22.53:334][  0]LogEngine: Initializing Engine...
+[2020.02.27-13.22.53:417][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.27-13.22.53:568][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.048 s
+[2020.02.27-13.22.55:889][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.27-13.22.56:880][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.27-13.22.57:366][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.27-13.22.58:180][  0]LogInit: FAudioDevice initialized.
+[2020.02.27-13.22.58:180][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.27-13.22.58:564][  0]LogDerivedDataCache: Saved boot cache 0.38s 74MB C:/Users/Nag/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.27-13.22.58:571][  0]LogInit: Texture streaming: Enabled
+[2020.02.27-13.22.58:973][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.27-13.22.58:973][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={80121AB5-4931-294B-3D4C-318B14A15DF2}
+[2020.02.27-13.22.58:973][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.27-13.22.59:001][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.27-13.23.01:030][  0]LogInit: Transaction tracking system initialized
+[2020.02.27-13.23.05:620][  0]BlueprintLog: New page: Editor Load
+[2020.02.27-13.23.12:572][  0]LocalizationService: Localization service is disabled
+[2020.02.27-13.23.14:185][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.02.27-13.23.14:185][  0]LogWindows: Warning: URL: E:/SOFTWARES/Unreal/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe -Mode=ValidatePlatforms -platforms=Android
+[2020.02.27-13.23.16:119][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.27-13.23.16:119][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.02.27-13.23.22:604][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.27-13.23.22:604][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.27-13.23.26:015][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Zombie_Game/Content/' took 3.90s
+[2020.02.27-13.23.37:893][  0]SourceControl: Source control is disabled
+[2020.02.27-13.23.38:102][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.27-13.23.38:148][  0]LightingResults: New page: Lighting Build
+[2020.02.27-13.23.38:459][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-13.23.38:760][  0]MapCheck: New page: Map Check
+[2020.02.27-13.23.38:760][  0]LightingResults: New page: Lighting Build
+[2020.02.27-13.23.39:599][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.02.27-13.26.24:659][  0]LogNiagaraEditor: Verbose: '/Game/Blueprints/Particles/Vomit/Vomit_system' Precompile took 0.196453 sec.
+[2020.02.27-13.26.24:660][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Vomit_system.Vomit_system:Vomit_emiter.SpawnScript_35' is in-sync skipping compile..
+[2020.02.27-13.26.24:660][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Vomit_system.Vomit_system:Vomit_emiter.UpdateScript_36' is in-sync skipping compile..
+[2020.02.27-13.26.24:660][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Vomit_system.Vomit_system:Vomit_emiter.EmitterSpawnScript_37' is in-sync skipping compile..
+[2020.02.27-13.26.24:660][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Vomit_system.Vomit_system:Vomit_emiter.EmitterUpdateScript_38' is in-sync skipping compile..
+[2020.02.27-13.26.24:660][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Vomit_system.Vomit_system:SystemSpawnScript' is in-sync skipping compile..
+[2020.02.27-13.26.24:660][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Vomit_system.Vomit_system:SystemUpdateScript' is in-sync skipping compile..
+[2020.02.27-13.26.24:994][  0]LogNiagaraEditor: Verbose: '/Game/Blueprints/Particles/Vomit/Blood_system' Precompile took 0.107080 sec.
+[2020.02.27-13.26.24:995][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Blood_system.Blood_system:Vomit_emiter.SpawnScript_35' is in-sync skipping compile..
+[2020.02.27-13.26.24:995][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Blood_system.Blood_system:Vomit_emiter.UpdateScript_36' is in-sync skipping compile..
+[2020.02.27-13.26.24:995][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Blood_system.Blood_system:Vomit_emiter.EmitterSpawnScript_37' is in-sync skipping compile..
+[2020.02.27-13.26.24:995][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Blood_system.Blood_system:Vomit_emiter.EmitterUpdateScript_38' is in-sync skipping compile..
+[2020.02.27-13.26.24:995][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Blood_system.Blood_system:SystemSpawnScript' is in-sync skipping compile..
+[2020.02.27-13.26.24:995][  0]LogNiagara: Script 'NiagaraScript /Game/Blueprints/Particles/Vomit/Blood_system.Blood_system:SystemUpdateScript' is in-sync skipping compile..
+[2020.02.27-13.26.27:037][  0]LogTemp: Display: Loaded shader NiagaraScript /Engine/Transient.NiagaraSystem_1:Damage_emitterr.GPUComputeScript for Niagara script NiagaraScript /Game/Blueprints/Particles/Damage_emitter_System.Damage_emitter_System:Damage_emitterr.GPUComputeScript_44 from DDC
+[2020.02.27-13.26.30:836][  0]LogAIModule: Creating AISystem for world Level_3
+[2020.02.27-13.26.31:802][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.27-13.26.32:249][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2020.02.27-13.26.32:249][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.27-13.26.32:288][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 37.845ms to complete.
+[2020.02.27-13.26.32:288][  0]LogFileHelpers: Loading map 'Level_3' took 174.246
+[2020.02.27-13.26.34:435][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-13.26.34:455][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-13.26.34:467][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-13.26.34:478][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-13.26.34:583][  0]LogCollectionManager: Loaded 0 collections in 0.003331 seconds
+[2020.02.27-13.26.35:028][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Zombie_Game/Saved/Collections/' took 0.00s
+[2020.02.27-13.26.35:029][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Zombie_Game/Content/Developers/Nag/Collections/' took 0.00s
+[2020.02.27-13.26.35:029][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Zombie_Game/Content/Collections/' took 0.00s
+[2020.02.27-13.26.35:029][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000006 seconds
+[2020.02.27-13.26.35:043][  0]LogContentBrowser: Native class hierarchy populated in 0.0143 seconds. Added 2999 classes and 698 folders.
+[2020.02.27-13.26.35:104][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.27-13.26.39:662][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.27-13.26.39:827][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.02.27-13.26.42:448][  0]LogSlate: Took 0.081440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.27-13.26.42:525][  0]LogSlate: Took 0.044143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.27-13.26.42:652][  0]LogSlate: Took 0.063576 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.27-13.26.43:759][  0]LogRenderer: Reallocating scene render targets to support 1156x524 Format 10 NumSamples 1 (Frame:1).
+[2020.02.27-13.26.45:021][  0]LogSlate: Took 0.048183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.27-13.26.45:799][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.27-13.26.45:799][  0]LogLoad: (Engine Initialization) Total time: 434.76 seconds
+[2020.02.27-13.26.45:799][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.27-13.26.46:832][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.27-13.26.48:002][  2]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.27-13.27.02:780][145]LogAssetRegistry: Asset discovery search completed in 338.8284 seconds
+[2020.02.27-13.27.02:787][145]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000012 seconds (found 0 objects)
+[2020.02.27-13.27.02:787][145]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000092 seconds (updated 0 objects)
+[2020.02.27-13.27.46:350][275]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={429BA6F3-4B0E-8559-DBB7-88B5E194F102}
+[2020.02.27-13.27.46:690][277]LogHttp: Warning: 0000022AD1533740: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB862B5D-407F-AD0E-884B-4DBCC344C4D0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=a258e95247dfccee946f099bb36d6f7f%7C0bb57250338640e1b49c428792e44b43%7Ca1267251-75e2-45dc-8208-252f8df2568a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.02.27-13.27.46:690][277]LogHttp: Warning: 0000022AD1533740: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.02.27-13.27.46:690][277]LogHttp: Warning: 0000022AD1533740: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.02.27-13.27.46:690][277]LogHttp: Warning: 0000022AD1533740: libcurl info message cache 1 (Closing connection 0)
+[2020.02.27-13.27.47:023][278]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB862B5D-407F-AD0E-884B-4DBCC344C4D0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=a258e95247dfccee946f099bb36d6f7f%7C0bb57250338640e1b49c428792e44b43%7Ca1267251-75e2-45dc-8208-252f8df2568a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.27-13.29.26:563][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-13.30.52:926][250]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/ModSci_Engineer/Meshes/SM_Door_Small_A.SM_Door_Small_A
+[2020.02.27-13.30.55:522][250]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.02.27-13.30.55:522][250]LogSlate: Took 0.095265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.27-13.31.07:399][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-13.31.07:595][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ModSci_Engineer/Meshes/SM_Door_Small_A" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/ModSci_Engineer/Meshes/SM_Door_Small_A.uasset" SILENT=true
+[2020.02.27-13.31.08:278][599]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/SM_Door_Small_A4947708A4C5845E98C9EEA87CCDF793D.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/ModSci_Engineer/Meshes/SM_Door_Small_A.uasset'
+[2020.02.27-13.31.40:314][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-13.42.26:735][924]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.27-13.42.40:003][450]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AI_Spawnner/Location_Array.Location_Array
+[2020.02.27-13.42.41:416][450]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2020.02.27-13.42.47:221][521]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-13.42.48:282][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-13.42.48:303][549]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_ArrayD781AC6C45C3719247C0F381C8C7FAE0.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-13.43.48:250][639]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-13.43.48:783][639]LogUObjectHash: Compacting FUObjectHashTables data took   8.08ms
+[2020.02.27-13.43.49:276][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-13.43.49:324][660]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array83AE2C2F466AFC544FE315ACB9355CAF.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-13.45.08:484][943]LogSlate: Took 0.029840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.27-13.45.18:217][472]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-13.45.18:676][472]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2020.02.27-13.45.29:066][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-13.45.29:094][902]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array07C166F845E3F4A2930313AFCA1C50C2.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-13.45.35:219][196]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-13.45.35:221][196]LogClass: Warning: Type mismatch in Loc_Array of Location_Array_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2020.02.27-13.45.35:658][196]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2020.02.27-13.45.36:089][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-13.45.36:120][208]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_ArrayD3837D4144F199C98E471EA74CBB3C93.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-13.46.23:907][211]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-13.46.24:363][211]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2020.02.27-13.46.24:891][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-13.46.24:916][227]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array27BFD0E747ED79E41B77C7A789EE52B9.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-13.46.26:000][269]LogSlate: Took 0.049054 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.27-13.49.57:132][918]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-13.49.57:650][918]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2020.02.27-13.49.58:119][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-13.49.58:161][939]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array7CD9BD6649A7553AA97F8BBC02C56165.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-13.50.50:680][852]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.27-13.52.10:393][320]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-13.52.10:395][320]LogBlueprint: Error: [Compiler Location_Array] Cannot construct objects of type '/Script/Engine.Actor' in  Construct Object from Class
+[2020.02.27-13.52.10:396][320]LogBlueprint: Error: [Compiler Location_Array] Outer object is required in  Construct Object from Class
+[2020.02.27-13.52.11:071][320]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2020.02.27-13.52.11:588][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-13.52.11:794][343]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_ArrayFBD9DAC04A4F732A85E4538DDE645360.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-13.52.43:349][953]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-13.52.43:352][953]LogBlueprint: Error: [Compiler Location_Array] Cannot construct objects of type '/Script/Engine.Actor' in  Construct Object from Class
+[2020.02.27-13.52.43:817][953]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2020.02.27-13.52.57:167][664]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.27-13.53.09:599][362]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-13.53.09:601][362]LogBlueprint: Error: [Compiler Location_Array] Cannot construct objects of type '/Script/Engine.SceneComponent' in  Construct Object from Class
+[2020.02.27-13.53.09:604][362]LogBlueprint: Warning: [Compiler Location_Array] Input pin  Instigator  specifying non-default value no longer exists on node  Construct Object from Class . Please refresh node or reset pin to default value to remove pin.
+[2020.02.27-13.53.10:056][362]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2020.02.27-13.53.24:968][174]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-13.53.24:970][174]LogBlueprint: Error: [Compiler Location_Array] Cannot construct objects of type '/Script/Engine.SceneComponent' in  Construct Object from Class
+[2020.02.27-13.53.24:972][174]LogBlueprint: Warning: [Compiler Location_Array] Input pin  Instigator  specifying non-default value no longer exists on node  Construct Object from Class . Please refresh node or reset pin to default value to remove pin.
+[2020.02.27-13.53.25:431][174]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2020.02.27-13.53.35:855][758]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-13.53.35:856][758]LogBlueprint: Error: [Compiler Location_Array] Cannot construct objects of type '/Script/Engine.SceneComponent' in  Construct Object from Class
+[2020.02.27-13.53.35:856][758]LogBlueprint: Error: [Compiler Location_Array] Outer object is required in  Construct Object from Class
+[2020.02.27-13.53.35:858][758]LogBlueprint: Warning: [Compiler Location_Array] Input pin  Instigator  specifying non-default value no longer exists on node  Construct Object from Class . Please refresh node or reset pin to default value to remove pin.
+[2020.02.27-13.53.36:305][758]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2020.02.27-13.54.01:197][131]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.27-13.54.21:549][268]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-13.54.21:552][268]LogBlueprint: Error: [Compiler Location_Array] Cannot construct objects of type '/Script/Engine.World' in  Construct Object from Class
+[2020.02.27-13.54.21:552][268]LogBlueprint: Error: [Compiler Location_Array] Outer object is required in  Construct Object from Class
+[2020.02.27-13.54.22:014][268]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2020.02.27-13.54.25:633][465]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-13.54.26:099][465]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2020.02.27-13.54.29:867][678]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-13.54.30:318][678]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2020.02.27-13.54.57:747][158]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2020.02.27-13.54.57:747][158]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/Maps/Level_3' took 0.061
+[2020.02.27-13.54.57:878][158]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI_Spawnner/Location_Array] ([1] browsable assets)...
+[2020.02.27-13.54.57:878][158]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Spawnner/Location_Array]
+[2020.02.27-13.54.57:906][158]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array_Auto12C7A0E6547D228E8FE434F86EB2A6574.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Saved/Autosaves/Game/Blueprints/AI_Spawnner/Location_Array_Auto1.uasset'
+[2020.02.27-13.54.57:906][158]LogFileHelpers: Auto-saving content packages took 0.157
+[2020.02.27-13.55.32:323][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Maps/Level_3" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-13.55.32:481][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   6.92ms
+[2020.02.27-13.55.32:984][ 79]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_34766B8B44D3B8EC5A499379E5D18716A.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level_3.umap'
+[2020.02.27-13.55.33:145][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Maps/Level_3_BuiltData" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level_3_BuiltData.uasset" SILENT=true
+[2020.02.27-13.55.33:321][ 79]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_3_BuiltData14F1B7F5446AE405A2FFF9AAD42EF48A.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level_3_BuiltData.uasset'
+[2020.02.27-13.55.39:028][390]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2020.02.27-13.55.40:458][390]LogSlate: Window 'Save Content' being destroyed
+[2020.02.27-13.55.40:512][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-13.55.40:549][390]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_ArrayEFF1B97F4A9F238FBE16F396C16F0D9D.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-13.55.40:560][390]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.27-13.55.40:631][390]LightingResults: New page: Lighting Build
+[2020.02.27-13.55.40:632][390]LoadErrors: New page: Loading map: Level2.umap
+[2020.02.27-13.55.40:634][390]LogWorld: UWorld::CleanupWorld for Level_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-13.55.40:647][390]MapCheck: New page: Map Check
+[2020.02.27-13.55.40:647][390]LightingResults: New page: Lighting Build
+[2020.02.27-13.55.40:714][390]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.02.27-13.55.52:544][390]LogAIModule: Creating AISystem for world Level2
+[2020.02.27-13.55.53:133][390]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.27-13.55.53:214][390]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2020.02.27-13.55.53:356][390]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.27-13.55.53:357][390]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.144ms to complete.
+[2020.02.27-13.55.53:357][390]LogFileHelpers: Loading map 'Level2' took 12.799
+[2020.02.27-13.55.53:357][390]LogSlate: Window 'Open Level' being destroyed
+[2020.02.27-13.56.09:584][192]LogAssetEditorManager: Opening Asset editor for Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2020.02.27-13.56.53:301][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/BP_Sky_Sphere" FILE="../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" SILENT=true
+[2020.02.27-13.56.53:530][501]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/BP_Sky_SphereFFC0343B4AB9569FF8BEBF8EB5AB1440.tmp' to '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset'
+[2020.02.27-13.59.26:996][480]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-13.59.27:478][480]LogUObjectHash: Compacting FUObjectHashTables data took   7.47ms
+[2020.02.27-13.59.28:009][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-13.59.28:047][503]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array4728958E4FC67404CC064A94DEA77019.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-13.59.42:218][285]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.27-13.59.52:459][870]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-13.59.52:461][870]LogBlueprint: Error: [Compiler Location_Array] Cannot construct objects of type '/Script/Engine.ArrowComponent' in  Construct Object from Class
+[2020.02.27-13.59.52:461][870]LogBlueprint: Error: [Compiler Location_Array] Outer object is required in  Construct Object from Class
+[2020.02.27-13.59.52:913][870]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2020.02.27-13.59.53:392][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-13.59.53:430][892]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_ArrayAD67B1C6466E3E3747CB949D464ECA80.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.00.11:121][856]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.27-14.00.46:934][930]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-14.00.46:939][930]LogBlueprint: Error: [Compiler Location_Array] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.02.27-14.00.46:939][930]LogBlueprint: Error: [Compiler Location_Array] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.02.27-14.00.47:411][930]LogUObjectHash: Compacting FUObjectHashTables data took   8.79ms
+[2020.02.27-14.01.21:445][754]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-14.01.21:452][754]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.21:924][754]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2020.02.27-14.01.21:927][754]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.21:932][754]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.25:502][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.01.25:670][942]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array19DEF0AA4131EC782A9F5D90E39ED563.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.01.46:889][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.01.46:927][102]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_ArrayC40E20E5418AAAB5DD492783FD3FA7A8.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.01.58:016][710]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:016][710]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:017][710]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:084][710]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:085][710]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:098][711]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:225][712]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:227][712]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:246][713]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:248][713]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:264][714]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:265][714]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:282][715]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:284][715]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:286][715]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:306][716]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:308][716]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:309][716]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:327][717]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:343][718]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:411][721]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:412][721]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:414][721]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:428][722]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:592][730]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:600][730]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.01.58:600][730]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.00:751][857]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.00:768][858]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.00:784][859]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.00:801][860]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.00:818][861]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.00:834][862]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.00:851][863]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.00:868][864]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.00:885][865]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.00:901][866]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.00:918][867]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.00:935][868]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.00:951][869]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:085][877]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:101][878]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:117][879]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:134][880]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:151][881]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:167][882]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:184][883]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:201][884]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:217][885]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:234][886]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:251][887]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:268][888]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:284][889]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:401][896]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:418][897]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:435][898]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:451][899]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:468][900]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:485][901]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:501][902]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:518][903]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:535][904]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:551][905]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:568][906]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:585][907]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.01:767][918]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.04:257][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.02.30:308][506]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.30:309][506]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.31:244][558]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-14.02.31:253][558]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.31:253][558]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.31:765][558]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2020.02.27-14.02.31:766][558]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.31:767][558]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.31:772][558]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.31:772][558]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.32:163][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.02.32:202][575]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_ArrayF52FF56947AA0BB647B5DCBC9BC05D56.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.02.38:851][963]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.41:182][102]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.42:081][156]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:111][455]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:128][456]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:144][457]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:161][458]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:178][459]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:194][460]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:228][462]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:244][463]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:261][464]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:278][465]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:294][466]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:310][467]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:561][482]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:577][483]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:594][484]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:611][485]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:628][486]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:644][487]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:661][488]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:678][489]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:694][490]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:711][491]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:728][492]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:745][493]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.47:844][499]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.50:767][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.02.50:917][681]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.51:750][731]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.53:300][824]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.02.53:734][850]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.15:590][ 15]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.19:791][197]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.19:791][197]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.19:792][197]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.19:792][197]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.19:807][197]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.20:514][229]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.20:516][229]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.20:516][229]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.20:516][229]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.20:530][229]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.21:874][288]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-14.03.21:882][288]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.21:883][288]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.22:362][288]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2020.02.27-14.03.22:364][288]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.22:364][288]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.22:369][288]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.22:369][288]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.22:405][288]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Actor)
+[2020.02.27-14.03.22:789][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.03.22:841][302]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array7D9CBF104D5F190F13F6EBAB90CD8F80.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.05.36:859][634]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.27-14.05.40:697][852]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-14.05.40:709][852]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.40:709][852]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.41:194][852]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2020.02.27-14.05.41:195][852]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.41:196][852]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.41:203][852]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.41:203][852]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.41:799][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.05.41:867][875]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array153ADD5649F4275F837831B841C01F69.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.05.47:586][201]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.48:519][257]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.48:936][282]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.49:070][290]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.49:252][301]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.49:369][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.49:570][320]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.49:886][339]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.50:002][346]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.50:186][357]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.54:278][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.05.54:426][609]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.55:160][653]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.05.55:927][699]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.02:087][ 68]Cmd: DELETE
+[2020.02.27-14.06.02:087][ 68]Cmd: ACTOR DELETE
+[2020.02.27-14.06.02:233][ 68]LogEditorActor: Deleted Actor: Location_Array_C
+[2020.02.27-14.06.02:311][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2020.02.27-14.06.02:312][ 68]LogEditorActor: Deleted 1 Actors (0.112 secs)
+[2020.02.27-14.06.04:708][205]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:708][205]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:709][205]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:711][205]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:722][206]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:738][207]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:755][208]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:771][209]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:779][209]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:788][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:790][210]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:805][211]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:806][211]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:821][212]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:838][213]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:871][215]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:950][219]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:958][219]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.04:958][219]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.06:938][335]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.06:954][336]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.06:971][337]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.06:988][338]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:005][339]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:022][340]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:038][341]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:055][342]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:154][348]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:171][349]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:188][350]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:204][351]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:238][353]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:255][354]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:271][355]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:337][359]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:354][360]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:371][361]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:404][363]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:421][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:438][365]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:655][378]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:672][379]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:688][380]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:705][381]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.07:722][382]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.08:220][412]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.08:962][454]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.08:978][455]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.08:995][456]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:012][457]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:027][458]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:044][459]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:061][460]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:078][461]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:094][462]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:111][463]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:128][464]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:328][476]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:344][477]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:361][478]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:378][479]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:394][480]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:411][481]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:428][482]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:445][483]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:461][484]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:478][485]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:495][486]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:511][487]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.09:528][488]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.10:586][549]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.10:602][550]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.10:619][551]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.10:636][552]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.10:652][553]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.10:736][558]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.10:803][562]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.10:820][563]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.10:836][564]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.10:853][565]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.10:869][566]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.10:936][570]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.10:952][571]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.10:969][572]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.10:985][573]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.11:003][574]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.11:019][575]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.11:036][576]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.11:085][579]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.11:102][580]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.11:118][581]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.13:445][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.06.13:561][725]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.06.18:936][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.06.18:973][986]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array9264D62D498EF4520CFAE796924E05AF.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.06.46:556][422]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2020.02.27-14.06.47:195][422]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level2_Auto23E2B39714D71E97BDAD120866C4FD958.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Saved/Autosaves/Game/Blueprints/Maps/Level2_Auto2.umap'
+[2020.02.27-14.06.47:199][422]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/Maps/Level2' took 0.715
+[2020.02.27-14.06.47:199][422]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.715
+[2020.02.27-14.07.31:058][791]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-14.07.31:070][791]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.07.31:070][791]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.07.31:575][791]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2020.02.27-14.07.31:577][791]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.07.31:577][791]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.07.31:582][791]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.07.31:583][791]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Ally_1_C)
+[2020.02.27-14.07.32:127][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.07.32:175][816]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array8BC199334B441022BBCF749F9B3DFE89.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.07.33:781][899]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.27-14.07.40:651][288]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-14.07.40:659][288]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Enemy_2_C)
+[2020.02.27-14.07.40:660][288]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Enemy_2_C)
+[2020.02.27-14.07.41:129][288]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2020.02.27-14.07.41:131][288]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Enemy_2_C)
+[2020.02.27-14.07.41:131][288]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Enemy_2_C)
+[2020.02.27-14.07.41:136][288]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Enemy_2_C)
+[2020.02.27-14.07.41:136][288]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (Enemy_2_C)
+[2020.02.27-14.07.41:707][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.07.41:747][304]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_ArrayFCF0FE1C45E4EDCEB9734C9179B07897.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.07.55:580][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.07.56:817][156]Cmd: DELETE
+[2020.02.27-14.07.56:817][156]Cmd: ACTOR DELETE
+[2020.02.27-14.07.56:823][156]LogEditorActor: Deleted Actor: Enemy_2_C
+[2020.02.27-14.07.56:884][156]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2020.02.27-14.07.56:885][156]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2020.02.27-14.08.46:091][ 51]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-14.08.46:574][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2020.02.27-14.08.47:138][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.08.47:213][ 78]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_ArrayCBE99D044F52D75FAA827B91BFB4CEBD.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.09.14:031][666]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-14.09.14:517][666]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2020.02.27-14.09.15:056][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.09.15:143][684]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array5202855D4CC8837CD10B7DB7CD46FC56.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.09.23:107][154]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-14.09.23:575][154]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2020.02.27-14.09.23:990][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.09.24:032][172]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array5A50A77D40A70FC1DFCC8491A89EE115.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.09.27:139][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.09.27:173][356]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_ArrayE89260A44BFD59D36173EC86D8B84E0D.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.09.38:024][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.09.47:053][483]Cmd: DELETE
+[2020.02.27-14.09.47:053][483]Cmd: ACTOR DELETE
+[2020.02.27-14.09.47:059][483]LogEditorActor: Deleted Actor: Enemy_2_C
+[2020.02.27-14.09.47:137][483]LogUObjectHash: Compacting FUObjectHashTables data took   7.73ms
+[2020.02.27-14.09.47:138][483]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2020.02.27-14.09.53:790][844]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.27-14.10.13:552][926]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.27-14.10.15:993][ 67]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-14.10.16:480][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2020.02.27-14.10.17:021][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.10.17:057][ 90]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array9412CB964803B74CC4C44A8B4B624890.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.10.18:634][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.10.20:127][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.10.37:409][194]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-14.10.37:887][194]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2020.02.27-14.10.38:364][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.10.38:401][215]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array7E8A941D491617933D4D789AB94F45FA.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.10.53:097][ 87]Cmd: TRANSACTION UNDO
+[2020.02.27-14.10.53:097][ 87]LogEditorTransaction: Undo Call In Editor Action
+[2020.02.27-14.10.54:147][126]Cmd: TRANSACTION UNDO
+[2020.02.27-14.10.54:147][126]LogEditorTransaction: Undo Call In Editor Action
+[2020.02.27-14.11.01:936][518]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.27-14.11.30:631][150]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.27-14.11.43:835][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.11.44:037][925]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AI_Spawnner/Location.Location
+[2020.02.27-14.11.45:633][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location.uasset" SILENT=true
+[2020.02.27-14.11.45:652][951]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location2DCA246F4AEEE3209EDE8DABBF87693B.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location.uasset'
+[2020.02.27-14.11.47:439][ 24]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-14.11.50:869][199]LogEditorViewport: Clicking on Actor (LMB): Location_C (Location)
+[2020.02.27-14.11.51:578][239]Cmd: DELETE
+[2020.02.27-14.11.51:578][239]Cmd: ACTOR DELETE
+[2020.02.27-14.11.51:584][239]LogEditorActor: Deleted Actor: Location_C
+[2020.02.27-14.11.51:660][239]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2020.02.27-14.11.51:661][239]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2020.02.27-14.11.56:501][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.11.57:847][544]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.27-14.11.57:847][544]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-14.12.01:187][722]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.27-14.12.06:223][ 20]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-14.12.06:708][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2020.02.27-14.12.07:267][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.12.07:326][ 48]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array373D41CC4F0AAA55AF736889B73A6CA2.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.12.24:084][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.12.27:067][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.12.27:881][277]Cmd: DELETE
+[2020.02.27-14.12.27:881][277]Cmd: ACTOR DELETE
+[2020.02.27-14.12.27:889][277]LogEditorActor: Deleted Actor: Location_C
+[2020.02.27-14.12.27:890][277]LogEditorActor: Deleted Actor: Location_C
+[2020.02.27-14.12.27:966][277]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2020.02.27-14.12.27:966][277]LogEditorActor: Deleted 2 Actors (0.085 secs)
+[2020.02.27-14.12.30:425][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Maps/Level2" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-14.12.30:496][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.02.27-14.12.31:047][424]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level21F285FB54093D4B1BD0D29B8FDFD048D.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level2.umap'
+[2020.02.27-14.12.31:193][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Maps/Level2_BuiltData" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level2_BuiltData.uasset" SILENT=true
+[2020.02.27-14.12.32:895][424]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level2_BuiltData1766C87742D492504E0639AB26564F2A.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level2_BuiltData.uasset'
+[2020.02.27-14.13.31:402][747]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-14.13.31:892][747]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2020.02.27-14.13.32:273][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.13.32:333][762]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array53A1AD45418F6C9FD65108919B270DFF.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.13.46:566][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.13.54:418][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.14.01:689][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.14.14:926][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.14.19:100][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Maps/Level2" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-14.14.19:168][500]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2020.02.27-14.14.19:709][500]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level2BB319EAB4A747CE671CD8BB69FAD4800.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level2.umap'
+[2020.02.27-14.14.19:850][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Maps/Level2_BuiltData" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level2_BuiltData.uasset" SILENT=true
+[2020.02.27-14.14.20:783][500]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level2_BuiltDataC9BFBB56453F32EBA41F16A8E3C40A25.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level2_BuiltData.uasset'
+[2020.02.27-14.14.26:198][747]BlueprintLog: New page: Compile Location_Array
+[2020.02.27-14.14.26:677][747]LogUObjectHash: Compacting FUObjectHashTables data took   7.32ms
+[2020.02.27-14.14.27:290][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Location_Array" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset" SILENT=true
+[2020.02.27-14.14.27:328][776]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Location_Array3DEE23A948D8AD59871D05AB5D89CC4D.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Location_Array.uasset'
+[2020.02.27-14.14.37:203][328]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.27-14.15.01:207][620]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.27-14.15.40:759][974]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AI_Spawnner/AI_Spawnner.AI_Spawnner
+[2020.02.27-14.16.23:749][227]BlueprintLog: New page: Compile AI_Spawnner
+[2020.02.27-14.16.24:267][227]LogUObjectHash: Compacting FUObjectHashTables data took   7.76ms
+[2020.02.27-14.16.31:574][589]BlueprintLog: New page: Compile AI_Spawnner
+[2020.02.27-14.16.31:598][589]LogClass: Warning: Type mismatch in location_array of AI_Spawnner_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2020.02.27-14.16.32:071][589]LogUObjectHash: Compacting FUObjectHashTables data took   7.38ms
+[2020.02.27-14.16.32:663][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/AI_Spawnner" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/AI_Spawnner.uasset" SILENT=true
+[2020.02.27-14.16.32:742][608]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/AI_Spawnner9FDE0A4643071A06371DEF9EE34BE557.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/AI_Spawnner.uasset'
+[2020.02.27-14.17.08:958][415]BlueprintLog: New page: Compile AI_Spawnner
+[2020.02.27-14.17.09:464][415]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2020.02.27-14.17.10:003][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/AI_Spawnner" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/AI_Spawnner.uasset" SILENT=true
+[2020.02.27-14.17.10:077][428]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/AI_Spawnner7AF9DAE044CDF3C1A55D578396354BF7.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/AI_Spawnner.uasset'
+[2020.02.27-14.17.18:767][875]BlueprintLog: New page: Compile AI_Spawnner
+[2020.02.27-14.17.19:268][875]LogUObjectHash: Compacting FUObjectHashTables data took   7.34ms
+[2020.02.27-14.17.19:815][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/AI_Spawnner" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/AI_Spawnner.uasset" SILENT=true
+[2020.02.27-14.17.19:907][894]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/AI_SpawnnerF8C51CCC4C07E8FFB3428E84A381DED1.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/AI_Spawnner.uasset'
+[2020.02.27-14.17.23:387][ 67]BlueprintLog: New page: Compile AI_Spawnner
+[2020.02.27-14.17.23:876][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   7.32ms
+[2020.02.27-14.17.24:429][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/AI_Spawnner" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/AI_Spawnner.uasset" SILENT=true
+[2020.02.27-14.17.24:499][ 81]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/AI_Spawnner3434FFB54B53842EACC08498E8A6EBAB.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/AI_Spawnner.uasset'
+[2020.02.27-14.17.50:298][312]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.27-14.17.56:590][671]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AI_Spawnner/Level_Starter.Level_Starter
+[2020.02.27-14.17.59:574][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Level_Starter" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset" SILENT=true
+[2020.02.27-14.17.59:596][741]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_Starter09021A7746B58D0BC88007877F333BFD.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset'
+[2020.02.27-14.18.36:708][367]BlueprintLog: New page: Compile Level_Starter
+[2020.02.27-14.18.37:193][367]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2020.02.27-14.18.37:746][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Level_Starter" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset" SILENT=true
+[2020.02.27-14.18.37:780][390]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_Starter6F72B4034C32A86D7B33CF9CBDB8DB18.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset'
+[2020.02.27-14.20.14:924][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.20.21:634][898]BlueprintLog: New page: Compile Level_Starter
+[2020.02.27-14.20.22:127][898]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2020.02.27-14.20.22:654][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Level_Starter" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset" SILENT=true
+[2020.02.27-14.20.22:688][917]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_Starter1F8266604808B13F79D16899EE0B95B2.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset'
+[2020.02.27-14.24.19:538][193]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2020.02.27-14.24.20:140][193]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level2_Auto3F5F24CAF4A3A2E7DAF347D9EB82EA7E0.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Saved/Autosaves/Game/Blueprints/Maps/Level2_Auto3.umap'
+[2020.02.27-14.24.20:144][193]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/Maps/Level2' took 0.682
+[2020.02.27-14.24.20:144][193]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.682
+[2020.02.27-14.28.36:790][621]BlueprintLog: New page: Compile Level_Starter
+[2020.02.27-14.28.37:284][621]LogUObjectHash: Compacting FUObjectHashTables data took   7.38ms
+[2020.02.27-14.28.37:815][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Level_Starter" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset" SILENT=true
+[2020.02.27-14.28.37:855][633]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_Starter95AEA7CE4DA657281CAF9497F5E93F69.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset'
+[2020.02.27-14.28.53:248][466]BlueprintLog: New page: Compile Level_Starter
+[2020.02.27-14.28.53:740][466]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2020.02.27-14.28.54:082][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Level_Starter" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset" SILENT=true
+[2020.02.27-14.28.54:113][474]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_StarterCBB8A675488A618BB043D98A7ADC7225.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset'
+[2020.02.27-14.29.31:454][566]LogEditorTransaction: Undo Add Node
+[2020.02.27-14.29.38:439][930]BlueprintLog: New page: Compile Level_Starter
+[2020.02.27-14.29.38:915][930]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2020.02.27-14.29.39:411][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Level_Starter" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset" SILENT=true
+[2020.02.27-14.29.39:448][944]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_StarterFE41A90244BB974967E70D947F709894.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset'
+[2020.02.27-14.29.44:198][219]LogEditorViewport: Clicking on Actor (LMB): Ally_1_C (Ally_1)
+[2020.02.27-14.29.46:188][302]LogEditorViewport: Clicking on Actor (CTRL LMB): Ally_1_C (Ally_2)
+[2020.02.27-14.29.47:073][331]LogEditorViewport: Clicking on Actor (CTRL LMB): Ally_1_C (Ally_3)
+[2020.02.27-14.29.47:789][351]LogEditorViewport: Clicking on Actor (CTRL LMB): Ally_1_C (Ally_4)
+[2020.02.27-14.29.49:392][391]LogEditorViewport: Clicking on Actor (CTRL LMB): Ally_1_C (Ally_5)
+[2020.02.27-14.29.51:519][448]Cmd: DELETE
+[2020.02.27-14.29.51:519][448]Cmd: ACTOR DELETE
+[2020.02.27-14.29.51:526][448]LogEditorActor: Actor Ally_1 is referenced by Ally_Scheduler.
+[2020.02.27-14.29.51:576][448]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.27-14.29.58:302][448]LogSlate: Window 'Message' being destroyed
+[2020.02.27-14.29.58:310][448]LogEditorActor: Actor Ally_2 is referenced by Ally_Scheduler.
+[2020.02.27-14.29.59:565][448]LogSlate: Window 'Message' being destroyed
+[2020.02.27-14.29.59:572][448]LogEditorActor: Actor Ally_3 is referenced by Ally_Scheduler.
+[2020.02.27-14.29.59:994][448]LogSlate: Window 'Message' being destroyed
+[2020.02.27-14.30.00:001][448]LogEditorActor: Actor Ally_4 is referenced by Ally_Scheduler.
+[2020.02.27-14.30.00:455][448]LogSlate: Window 'Message' being destroyed
+[2020.02.27-14.30.00:461][448]LogEditorActor: Actor Ally_5 is referenced by Ally_Scheduler.
+[2020.02.27-14.30.02:020][448]LogSlate: Window 'Message' being destroyed
+[2020.02.27-14.30.02:103][448]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2020.02.27-14.30.02:104][448]LogEditorActor: Deleted 0 Actors (0.084 secs)
+[2020.02.27-14.30.04:039][500]Cmd: DELETE
+[2020.02.27-14.30.04:039][500]Cmd: ACTOR DELETE
+[2020.02.27-14.30.04:042][500]LogEditorActor: Actor Ally_1 is referenced by Ally_Scheduler.
+[2020.02.27-14.30.05:952][500]LogSlate: Window 'Message' being destroyed
+[2020.02.27-14.30.05:960][500]LogEditorActor: Deleted Actor: Ally_1_C
+[2020.02.27-14.30.05:971][500]LogEditorActor: Actor Ally_2 is referenced by Ally_Scheduler.
+[2020.02.27-14.30.07:247][500]LogSlate: Window 'Message' being destroyed
+[2020.02.27-14.30.07:254][500]LogEditorActor: Deleted Actor: Ally_1_C
+[2020.02.27-14.30.07:264][500]LogEditorActor: Actor Ally_3 is referenced by Ally_Scheduler.
+[2020.02.27-14.30.07:677][500]LogSlate: Window 'Message' being destroyed
+[2020.02.27-14.30.07:684][500]LogEditorActor: Deleted Actor: Ally_1_C
+[2020.02.27-14.30.07:699][500]LogEditorActor: Actor Ally_4 is referenced by Ally_Scheduler.
+[2020.02.27-14.30.08:097][500]LogSlate: Window 'Message' being destroyed
+[2020.02.27-14.30.08:104][500]LogEditorActor: Deleted Actor: Ally_1_C
+[2020.02.27-14.30.08:118][500]LogEditorActor: Actor Ally_5 is referenced by Ally_Scheduler.
+[2020.02.27-14.30.08:552][500]LogSlate: Window 'Message' being destroyed
+[2020.02.27-14.30.08:560][500]LogEditorActor: Deleted Actor: Ally_1_C
+[2020.02.27-14.30.08:572][500]LogEditorActor: Deleted Actor: Ally_Scheduler_C
+[2020.02.27-14.30.08:653][500]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2020.02.27-14.30.08:653][500]LogEditorActor: Deleted 6 Actors (0.145 secs)
+[2020.02.27-14.30.10:317][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Maps/Level2" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-14.30.10:388][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.02.27-14.30.10:902][589]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level23421C6F64FD479A48C29F7B32B0CF8B7.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level2.umap'
+[2020.02.27-14.30.11:047][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Maps/Level2_BuiltData" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level2_BuiltData.uasset" SILENT=true
+[2020.02.27-14.30.12:014][589]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level2_BuiltDataDF9C41F8498F751CE456B196E4F69E92.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/Maps/Level2_BuiltData.uasset'
+[2020.02.27-14.30.24:283][167]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.27-14.30.28:044][361]BlueprintLog: New page: Compile Level_Starter
+[2020.02.27-14.30.28:544][361]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2020.02.27-14.30.28:995][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Level_Starter" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset" SILENT=true
+[2020.02.27-14.30.29:032][370]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_Starter0140E42C47BA76F732143B9C288C186A.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset'
+[2020.02.27-14.30.41:437][ 29]BlueprintLog: New page: Compile Level_Starter
+[2020.02.27-14.30.41:925][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2020.02.27-14.30.42:273][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Level_Starter" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset" SILENT=true
+[2020.02.27-14.30.42:310][ 34]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_Starter500A556A4309D204FD2B388FE05C5E22.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset'
+[2020.02.27-14.30.47:566][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.27-14.30.47:649][346]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-14.30.47:736][346]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Blueprints/Maps/Level2.Level2_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level2.Level2:PersistentLevel.Level2'
+[2020.02.27-14.30.47:736][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-14.30.47:748][346]PIE: New page: PIE session: Level2 (28-Feb-2020 1:30:47 am)
+[2020.02.27-14.30.47:752][346]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.27-14.30.47:754][346]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Level2
+[2020.02.27-14.30.47:774][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018920s)
+[2020.02.27-14.30.47:777][346]LogAIModule: Creating AISystem for world Level2
+[2020.02.27-14.30.47:777][346]LogPlayLevel: PIE: World Init took: (0.003677s)
+[2020.02.27-14.30.47:777][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Level2.Level2 to /Game/Blueprints/Maps/UEDPIE_0_Level2.Level2 (0.023069s)
+[2020.02.27-14.30.47:858][346]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2020.02.27-14.30.47:881][346]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.27-14.30.47:915][346]LogInit: FAudioDevice initialized.
+[2020.02.27-14.30.47:944][346]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.27-14.30.47:951][346]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2020.02.27-20.00.47
+[2020.02.27-14.30.47:987][346]LogWorld: Bringing up level for play took: 0.040275
+[2020.02.27-14.30.47:988][346]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.02.27-14.30.51:431][346]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 20 classes and 0 folders.
+[2020.02.27-14.30.51:454][346]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Level2 3.306
+[2020.02.27-14.30.51:454][346]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Blueprints/Maps/Level2.Level2_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level2.Level2:PersistentLevel.Level2'
+[2020.02.27-14.30.53:982][430]LogBlueprintUserMessages: [Enemy_3_Playable_AnimBP_C_0] 0
+[2020.02.27-14.30.55:807][538]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.30.55:817][539]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.30.55:833][540]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.30.55:876][541]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.30.55:877][541]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.30.55:878][541]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.30.55:904][542]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.30.55:905][542]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.30.55:914][543]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.30.55:930][544]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.30.55:947][545]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.30.58:047][671]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.30.58:065][672]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.30.58:097][674]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.30.58:147][677]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.30.58:180][679]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.00:047][791]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.00:047][791]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.00:064][792]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.00:080][793]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.00:114][795]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.00:115][795]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.00:131][796]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.00:131][796]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.00:148][797]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.00:180][799]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.00:196][800]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.00:213][801]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.01:165][858]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.01:182][859]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.01:198][860]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.01:215][861]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.01:232][862]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.01:248][863]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.01:265][864]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.01:281][865]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.07:589][228]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.07:622][229]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.07:672][230]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.07:672][230]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.07:688][231]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.09:521][341]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.09:622][347]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.09:655][349]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.09:721][353]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.10:521][401]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.10:554][403]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.10:587][405]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.10:604][406]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.10:605][406]LogBlueprintUserMessages: [Level_Starter_2] true
+[2020.02.27-14.31.11:372][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Blueprints/Maps/Level2.Level2_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level2.Level2:PersistentLevel.Level2'
+[2020.02.27-14.31.11:373][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-14.31.11:373][452]LogWorld: BeginTearingDown for /Game/Blueprints/Maps/UEDPIE_0_Level2
+[2020.02.27-14.31.11:375][452]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-14.31.11:409][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-14.31.11:409][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Level2.Level2:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Level2.Level2:PersistentLevel.Level2' with GeneratedClass '/Game/Blueprints/Maps/Level2.Level2_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Level2.Level2:PersistentLevel.Level2'
+[2020.02.27-14.31.11:501][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-14.31.11:613][452]LogUObjectHash: Compacting FUObjectHashTables data took   8.69ms
+[2020.02.27-14.31.11:650][453]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.02.27-14.31.12:224][457]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.27-14.31.56:267][887]BlueprintLog: New page: Compile Level_Starter
+[2020.02.27-14.31.56:905][887]LogUObjectHash: Compacting FUObjectHashTables data took   8.82ms
+[2020.02.27-14.31.57:283][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Level_Starter" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset" SILENT=true
+[2020.02.27-14.31.57:323][902]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_Starter07B3350142437FDE60D7E5A6E394CD40.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset'
+[2020.02.27-14.32.13:870][860]BlueprintLog: New page: Compile Level_Starter
+[2020.02.27-14.32.14:440][860]LogUObjectHash: Compacting FUObjectHashTables data took   8.62ms
+[2020.02.27-14.32.14:843][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Level_Starter" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset" SILENT=true
+[2020.02.27-14.32.14:887][878]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_Starter1621C124496D9D1369B0439212F57E63.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset'
+[2020.02.27-14.32.16:397][962]LogHttp: Warning: 0000022B66C11A80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB862B5D-407F-AD0E-884B-4DBCC344C4D0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=a258e95247dfccee946f099bb36d6f7f%7C0bb57250338640e1b49c428792e44b43%7Ca1267251-75e2-45dc-8208-252f8df2568a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.02.27-14.32.16:397][962]LogHttp: Warning: 0000022B66C11A80: request failed, libcurl error: 0 (No error)
+[2020.02.27-14.32.16:397][962]LogHttp: Warning: 0000022B66C11A80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x22a9359fee0 [can pipeline])
+[2020.02.27-14.32.16:397][962]LogHttp: Warning: 0000022B66C11A80: libcurl info message cache 1 (Re-using existing connection! (#31) with host datarouter.ol.epicgames.com)
+[2020.02.27-14.32.16:397][962]LogHttp: Warning: 0000022B66C11A80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.23.44.24) port 443 (#31))
+[2020.02.27-14.32.16:397][962]LogHttp: Warning: 0000022B66C11A80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.27-14.32.16:397][962]LogHttp: Warning: 0000022B66C11A80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.02.27-14.32.16:397][962]LogHttp: Warning: 0000022B66C11A80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.27-14.32.16:397][962]LogHttp: Warning: 0000022B66C11A80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.27-14.32.16:397][962]LogHttp: Warning: 0000022B66C11A80: libcurl info message cache 7 (Closing connection 31)
+[2020.02.27-14.32.16:397][962]LogHttp: Warning: 0000022B66C11A80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.02.27-14.32.16:397][962]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB862B5D-407F-AD0E-884B-4DBCC344C4D0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=a258e95247dfccee946f099bb36d6f7f%7C0bb57250338640e1b49c428792e44b43%7Ca1267251-75e2-45dc-8208-252f8df2568a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.27-14.32.36:793][137]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.27-14.32.43:739][546]BlueprintLog: New page: Compile Level_Starter
+[2020.02.27-14.32.43:744][546]LogBlueprint: Error: [Compiler Level_Starter] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.02.27-14.32.43:745][546]LogBlueprint: Error: [Compiler Level_Starter] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.02.27-14.32.44:300][546]LogUObjectHash: Compacting FUObjectHashTables data took   9.19ms
+[2020.02.27-14.32.44:716][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Level_Starter" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset" SILENT=true
+[2020.02.27-14.32.44:762][564]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_Starter03D10FC2429ABA3FDAFF69BC6D546525.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset'
+[2020.02.27-14.32.54:364][106]BlueprintLog: New page: Compile Level_Starter
+[2020.02.27-14.32.54:913][106]LogUObjectHash: Compacting FUObjectHashTables data took   8.81ms
+[2020.02.27-14.32.55:348][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Level_Starter" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset" SILENT=true
+[2020.02.27-14.32.55:387][123]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_Starter69AF70F044146B7CDB5612A47BD00123.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset'
+[2020.02.27-14.33.26:940][977]BlueprintLog: New page: Compile Level_Starter
+[2020.02.27-14.33.27:509][977]LogUObjectHash: Compacting FUObjectHashTables data took   8.90ms
+[2020.02.27-14.33.28:004][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Level_Starter" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset" SILENT=true
+[2020.02.27-14.33.28:048][998]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_StarterA13908634F927EA704CD77850C68D470.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset'
+[2020.02.27-14.33.43:113][862]BlueprintLog: New page: Compile Level_Starter
+[2020.02.27-14.33.43:657][862]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2020.02.27-14.33.44:046][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Level_Starter" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset" SILENT=true
+[2020.02.27-14.33.44:118][877]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_Starter9E60C02745D58D0F0E51E1AEFC37C5EE.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset'
+[2020.02.27-14.33.49:871][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Level_Starter" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset" SILENT=true
+[2020.02.27-14.33.49:916][210]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_Starter03E45C6A45110DF1E8000D964AF27C4E.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset'
+[2020.02.27-14.34.16:116][706]BlueprintLog: New page: Compile Level_Starter
+[2020.02.27-14.34.16:676][706]LogUObjectHash: Compacting FUObjectHashTables data took   8.94ms
+[2020.02.27-14.34.17:053][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/Level_Starter" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset" SILENT=true
+[2020.02.27-14.34.17:102][722]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/Level_Starter3C74FB124D2BCF1F7763CCB235B2D617.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/Level_Starter.uasset'
+[2020.02.27-14.35.05:722][491]BlueprintLog: New page: Compile AI_Spawnner
+[2020.02.27-14.35.06:321][491]LogUObjectHash: Compacting FUObjectHashTables data took   9.79ms
+[2020.02.27-14.35.06:738][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/AI_Spawnner" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/AI_Spawnner.uasset" SILENT=true
+[2020.02.27-14.35.06:816][502]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/AI_SpawnnerAC91D468434AFA886C6828BECF9FE71B.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/AI_Spawnner.uasset'
+[2020.02.27-14.35.10:105][692]BlueprintLog: New page: Compile AI_Spawnner
+[2020.02.27-14.35.10:684][692]LogUObjectHash: Compacting FUObjectHashTables data took   9.21ms
+[2020.02.27-14.35.11:087][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawnner/AI_Spawnner" FILE="../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/AI_Spawnner.uasset" SILENT=true
+[2020.02.27-14.35.11:152][703]LogSavePackage: Moving '../../../../../../Unreal Projects/Zombie_Game/Saved/AI_Spawnner99D31EDE449FE82EB4F63B8D516BBEA3.tmp' to '../../../../../../Unreal Projects/Zombie_Game/Content/Blueprints/AI_Spawnner/AI_Spawnner.uasset'
+[2020.02.27-14.35.14:819][924]LogUObjectArray: Warning: Other object in slot
+[2020.02.27-14.35.14:919][924]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.27-14.35.18:577][924]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.659 s
+[2020.02.27-14.35.18:577][924]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.27-14.35.18:577][924]LogOutputDevice: Error: 
+[2020.02.27-14.35.18:577][924]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2020.02.27-14.35.18:577][924]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.02.27-14.35.18:577][924]LogOutputDevice: Error: Stack: 
+[2020.02.27-14.35.18:577][924]LogOutputDevice: Error: [Callstack] 0x00007ffd0d0a5279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.27-14.35.18:577][924]LogOutputDevice: Error: [Callstack] 0x00007ffd0c8c7fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.27-14.35.18:577][924]LogOutputDevice: Error: [Callstack] 0x00007ffd0c8d622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.27-14.35.18:577][924]LogOutputDevice: Error: [Callstack] 0x00007ffd13176c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.02.27-14.35.18:577][924]LogOutputDevice: Error: [Callstack] 0x00007ffd08704dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.02.27-14.35.18:577][924]LogOutputDevice: Error: [Callstack] 0x00007ffd086be057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.02.27-14.35.18:577][924]LogOutputDevice: Error: [Callstack] 0x00007ffd1190d644 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.27-14.35.18:577][924]LogOutputDevice: Error: [Callstack] 0x00007ffd11afc533 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.27-14.35.18:577][924]LogOutputDevice: Error: [Callstack] 0x00007ffd1195922b UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.27-14.35.18:577][924]LogOutputDevice: Error: [Callstack] 0x00007ffd11935738 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.27-14.35.18:578][924]LogOutputDevice: Error: [Callstack] 0x00007ffd11929a1e UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.27-14.35.18:578][924]LogOutputDevice: Error: [Callstack] 0x00007ffd18f54c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.27-14.35.18:578][924]LogOutputDevice: Error: [Callstack] 0x00007ffd18f426df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.27-14.35.18:578][924]LogOutputDevice: Error: [Callstack] 0x00007ffd18f57340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.27-14.35.18:578][924]LogOutputDevice: Error: [Callstack] 0x00007ffd18f3edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.27-14.35.18:578][924]LogOutputDevice: Error: [Callstack] 0x00007ffd4f2b7446 USER32.dll!UnknownFunction []
+[2020.02.27-14.35.18:578][924]LogOutputDevice: Error: [Callstack] 0x00007ffd4f2b6f62 USER32.dll!UnknownFunction []
+[2020.02.27-14.35.18:578][924]LogOutputDevice: Error: [Callstack] 0x00007ffd18f588e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.27-14.35.18:578][924]LogOutputDevice: Error: [Callstack] 0x00007ff7abd36980 UE4Editor.exe!UnknownFunction []
+[2020.02.27-14.35.18:578][924]LogOutputDevice: Error: [Callstack] 0x00007ff7abd4a91c UE4Editor.exe!UnknownFunction []
+[2020.02.27-14.35.18:578][924]LogOutputDevice: Error: [Callstack] 0x00007ff7abd4a9fa UE4Editor.exe!UnknownFunction []
+[2020.02.27-14.35.18:578][924]LogOutputDevice: Error: [Callstack] 0x00007ff7abd5b92c UE4Editor.exe!UnknownFunction []
+[2020.02.27-14.35.18:578][924]LogOutputDevice: Error: [Callstack] 0x00007ff7abd5e60e UE4Editor.exe!UnknownFunction []
+[2020.02.27-14.35.18:578][924]LogOutputDevice: Error: [Callstack] 0x00007ffd50a67974 KERNEL32.DLL!UnknownFunction []
+[2020.02.27-14.35.18:578][924]LogOutputDevice: Error: [Callstack] 0x00007ffd517fa261 ntdll.dll!UnknownFunction []
+[2020.02.27-14.35.18:578][924]LogOutputDevice: Error: 
+[2020.02.27-14.35.18:691][924]LogStats:                SubmitErrorReport -  0.000 s
